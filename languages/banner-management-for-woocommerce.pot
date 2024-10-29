@@ -1,0 +1,3897 @@
+# Copyright (C) 2024 theDotstore
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Banner Management For WooCommerce Premium 2.5.0\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2024-07-30 12:14:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language-Team: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: India\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/partials/wcbm-category-sliders-form.php:4346
+#: admin/partials/wcbm-category-sliders-form.php:4448
+#: admin/partials/wcbm-category-sliders-form.php:4554
+#: admin/partials/wcbm-category-sliders-form.php:4655
+#: admin/partials/wcbm-product-sliders-form.php:2234
+#: admin/partials/wcbm-product-sliders-form.php:2336
+#: admin/partials/wcbm-product-sliders-form.php:2438
+#: admin/partials/wcbm-product-sliders-form.php:2543
+#: admin/partials/wcbm-product-sliders-form.php:2645
+#: admin/partials/wcbm-product-sliders-form.php:2747
+msgid "100"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4347
+#: admin/partials/wcbm-category-sliders-form.php:4449
+#: admin/partials/wcbm-category-sliders-form.php:4555
+#: admin/partials/wcbm-category-sliders-form.php:4656
+#: admin/partials/wcbm-product-sliders-form.php:2235
+#: admin/partials/wcbm-product-sliders-form.php:2337
+#: admin/partials/wcbm-product-sliders-form.php:2439
+#: admin/partials/wcbm-product-sliders-form.php:2544
+#: admin/partials/wcbm-product-sliders-form.php:2646
+#: admin/partials/wcbm-product-sliders-form.php:2748
+msgid "200"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4348
+#: admin/partials/wcbm-category-sliders-form.php:4450
+#: admin/partials/wcbm-category-sliders-form.php:4556
+#: admin/partials/wcbm-category-sliders-form.php:4657
+#: admin/partials/wcbm-product-sliders-form.php:2236
+#: admin/partials/wcbm-product-sliders-form.php:2338
+#: admin/partials/wcbm-product-sliders-form.php:2440
+#: admin/partials/wcbm-product-sliders-form.php:2545
+#: admin/partials/wcbm-product-sliders-form.php:2647
+#: admin/partials/wcbm-product-sliders-form.php:2749
+msgid "300"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4349
+#: admin/partials/wcbm-category-sliders-form.php:4451
+#: admin/partials/wcbm-category-sliders-form.php:4557
+#: admin/partials/wcbm-category-sliders-form.php:4658
+#: admin/partials/wcbm-product-sliders-form.php:2237
+#: admin/partials/wcbm-product-sliders-form.php:2339
+#: admin/partials/wcbm-product-sliders-form.php:2441
+#: admin/partials/wcbm-product-sliders-form.php:2546
+#: admin/partials/wcbm-product-sliders-form.php:2648
+#: admin/partials/wcbm-product-sliders-form.php:2750
+msgid "400"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4350
+#: admin/partials/wcbm-category-sliders-form.php:4452
+#: admin/partials/wcbm-category-sliders-form.php:4558
+#: admin/partials/wcbm-category-sliders-form.php:4659
+#: admin/partials/wcbm-product-sliders-form.php:2238
+#: admin/partials/wcbm-product-sliders-form.php:2340
+#: admin/partials/wcbm-product-sliders-form.php:2442
+#: admin/partials/wcbm-product-sliders-form.php:2547
+#: admin/partials/wcbm-product-sliders-form.php:2649
+#: admin/partials/wcbm-product-sliders-form.php:2751
+msgid "500"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4351
+#: admin/partials/wcbm-category-sliders-form.php:4453
+#: admin/partials/wcbm-category-sliders-form.php:4559
+#: admin/partials/wcbm-category-sliders-form.php:4660
+#: admin/partials/wcbm-product-sliders-form.php:2239
+#: admin/partials/wcbm-product-sliders-form.php:2341
+#: admin/partials/wcbm-product-sliders-form.php:2443
+#: admin/partials/wcbm-product-sliders-form.php:2548
+#: admin/partials/wcbm-product-sliders-form.php:2650
+#: admin/partials/wcbm-product-sliders-form.php:2752
+msgid "600"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4352
+#: admin/partials/wcbm-category-sliders-form.php:4454
+#: admin/partials/wcbm-category-sliders-form.php:4560
+#: admin/partials/wcbm-category-sliders-form.php:4661
+#: admin/partials/wcbm-product-sliders-form.php:2240
+#: admin/partials/wcbm-product-sliders-form.php:2342
+#: admin/partials/wcbm-product-sliders-form.php:2444
+#: admin/partials/wcbm-product-sliders-form.php:2549
+#: admin/partials/wcbm-product-sliders-form.php:2651
+#: admin/partials/wcbm-product-sliders-form.php:2753
+msgid "700"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4353
+#: admin/partials/wcbm-category-sliders-form.php:4455
+#: admin/partials/wcbm-category-sliders-form.php:4561
+#: admin/partials/wcbm-category-sliders-form.php:4662
+#: admin/partials/wcbm-product-sliders-form.php:2241
+#: admin/partials/wcbm-product-sliders-form.php:2343
+#: admin/partials/wcbm-product-sliders-form.php:2445
+#: admin/partials/wcbm-product-sliders-form.php:2550
+#: admin/partials/wcbm-product-sliders-form.php:2652
+#: admin/partials/wcbm-product-sliders-form.php:2754
+msgid "800"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4354
+#: admin/partials/wcbm-category-sliders-form.php:4456
+#: admin/partials/wcbm-category-sliders-form.php:4562
+#: admin/partials/wcbm-category-sliders-form.php:4663
+#: admin/partials/wcbm-product-sliders-form.php:2242
+#: admin/partials/wcbm-product-sliders-form.php:2344
+#: admin/partials/wcbm-product-sliders-form.php:2446
+#: admin/partials/wcbm-product-sliders-form.php:2551
+#: admin/partials/wcbm-product-sliders-form.php:2653
+#: admin/partials/wcbm-product-sliders-form.php:2755
+msgid "900"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:125
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:126
+#: admin/class-woocommerce-category-banner-management-admin.php:1010
+#: admin/partials/wcbm-banner-settings-page.php:686
+#: admin/partials/wcbm-banner-settings-page.php:1021
+#: admin/partials/wcbm-banner-settings-page.php:1357
+#: admin/partials/wcbm-banner-settings-page.php:1674
+#: admin/partials/wcbm-banner-settings-page.php:2068
+#: admin/partials/wcbm-banner-settings-page.php:2429
+#: includes/class-woocommerce-category-banner-management.php:874
+msgid "Enter banner image link"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:127
+#: admin/class-woocommerce-category-banner-management-admin.php:435
+#: admin/partials/wcbm-banner-settings-page.php:416
+#: admin/partials/wcbm-banner-settings-page.php:749
+#: admin/partials/wcbm-banner-settings-page.php:1086
+#: admin/partials/wcbm-banner-settings-page.php:2477
+#: admin/partials/wcbm-banner-settings-page.php:2500
+#: admin/partials/wcbm-banner-settings-page.php:2523
+#: admin/partials/wcbm-banner-settings-page.php:2555
+msgid "Click here"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:128
+#: admin/class-woocommerce-category-banner-management-admin.php:433
+#: admin/partials/wcbm-banner-settings-page.php:416
+#: admin/partials/wcbm-banner-settings-page.php:749
+msgid "Preview"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:134
+msgid "Update Preview"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:135
+msgid "Hide Preview"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:136
+#: admin/partials/wcbm-category-sliders-form.php:4871
+#: admin/partials/wcbm-product-sliders-form.php:3038
+msgid "Show Preview"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:151
+msgid "Dotstore Plugins"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:157
+msgid "Banner Management"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:161
+#: admin/partials/wcbm-category-sliders-form.php:84
+#: admin/partials/wcbm-product-sliders-form.php:78
+msgid "Slider Settings"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:266
+msgid ""
+"<strong>We need your support</strong> to keep updating and improving the "
+"plugin. Please <a href=\"%1$s\" target=\"_blank\">help us by leaving a good "
+"review</a> :) Thanks!"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:415
+msgid "Category Based Banner Settings"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:417
+msgid "Tag Based Banner Settings"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:424
+#: admin/partials/wcbm-banner-settings-page.php:401
+#: admin/partials/wcbm-banner-settings-page.php:736
+#: admin/partials/wcbm-banner-settings-page.php:1072
+#: admin/partials/wcbm-banner-settings-page.php:1404
+#: includes/class-woocommerce-category-banner-management.php:332
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:452
+#: admin/class-woocommerce-category-banner-management-admin.php:544
+#: admin/class-woocommerce-category-banner-management-admin.php:635
+msgid "Same Banner For Child Categories"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:468
+#: admin/class-woocommerce-category-banner-management-admin.php:560
+#: admin/class-woocommerce-category-banner-management-admin.php:651
+#: admin/partials/wcbm-banner-settings-page.php:304
+#: admin/partials/wcbm-banner-settings-page.php:447
+#: admin/partials/wcbm-banner-settings-page.php:781
+#: admin/partials/wcbm-banner-settings-page.php:1116
+#: admin/partials/wcbm-banner-settings-page.php:1431
+#: admin/partials/wcbm-banner-settings-page.php:1825
+#: admin/partials/wcbm-banner-settings-page.php:2192
+#: includes/class-woocommerce-category-banner-management.php:345
+#: includes/class-woocommerce-category-banner-management.php:413
+#: includes/class-woocommerce-category-banner-management.php:482
+msgid "Select Banner"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:472
+#: admin/class-woocommerce-category-banner-management-admin.php:564
+#: admin/class-woocommerce-category-banner-management-admin.php:655
+#: admin/partials/wcbm-banner-settings-page.php:308
+#: admin/partials/wcbm-banner-settings-page.php:353
+#: admin/partials/wcbm-banner-settings-page.php:453
+#: admin/partials/wcbm-banner-settings-page.php:511
+#: admin/partials/wcbm-banner-settings-page.php:787
+#: admin/partials/wcbm-banner-settings-page.php:842
+#: admin/partials/wcbm-banner-settings-page.php:1123
+#: admin/partials/wcbm-banner-settings-page.php:1178
+#: admin/partials/wcbm-banner-settings-page.php:1438
+#: admin/partials/wcbm-banner-settings-page.php:1494
+#: admin/partials/wcbm-banner-settings-page.php:1832
+#: admin/partials/wcbm-banner-settings-page.php:1888
+#: admin/partials/wcbm-banner-settings-page.php:2198
+#: admin/partials/wcbm-banner-settings-page.php:2256
+#: includes/class-woocommerce-category-banner-management.php:349
+#: includes/class-woocommerce-category-banner-management.php:417
+#: includes/class-woocommerce-category-banner-management.php:486
+msgid "Single Banner"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:475
+#: admin/class-woocommerce-category-banner-management-admin.php:567
+#: admin/class-woocommerce-category-banner-management-admin.php:658
+#: admin/partials/wcbm-banner-settings-page.php:457
+#: admin/partials/wcbm-banner-settings-page.php:603
+#: admin/partials/wcbm-banner-settings-page.php:791
+#: admin/partials/wcbm-banner-settings-page.php:937
+#: admin/partials/wcbm-banner-settings-page.php:1127
+#: admin/partials/wcbm-banner-settings-page.php:1271
+#: admin/partials/wcbm-banner-settings-page.php:1442
+#: admin/partials/wcbm-banner-settings-page.php:1588
+#: admin/partials/wcbm-banner-settings-page.php:1836
+#: admin/partials/wcbm-banner-settings-page.php:1982
+#: admin/partials/wcbm-banner-settings-page.php:2202
+#: admin/partials/wcbm-banner-settings-page.php:2348
+#: includes/class-woocommerce-category-banner-management.php:352
+#: includes/class-woocommerce-category-banner-management.php:420
+#: includes/class-woocommerce-category-banner-management.php:489
+msgid "Multiple Banner"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:482
+#: admin/class-woocommerce-category-banner-management-admin.php:574
+#: admin/class-woocommerce-category-banner-management-admin.php:665
+#: admin/partials/wcbm-banner-settings-page.php:315
+#: admin/partials/wcbm-banner-settings-page.php:464
+#: admin/partials/wcbm-banner-settings-page.php:797
+#: admin/partials/wcbm-banner-settings-page.php:1133
+#: admin/partials/wcbm-banner-settings-page.php:1448
+#: admin/partials/wcbm-banner-settings-page.php:1842
+#: admin/partials/wcbm-banner-settings-page.php:2209
+#: includes/class-woocommerce-category-banner-management.php:359
+#: includes/class-woocommerce-category-banner-management.php:427
+#: includes/class-woocommerce-category-banner-management.php:496
+msgid "Start Date"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:485
+#: admin/class-woocommerce-category-banner-management-admin.php:577
+#: admin/class-woocommerce-category-banner-management-admin.php:668
+#: admin/partials/wcbm-banner-settings-page.php:1136
+#: admin/partials/wcbm-banner-settings-page.php:1451
+#: admin/partials/wcbm-banner-settings-page.php:1845
+#: includes/class-woocommerce-category-banner-management.php:362
+#: includes/class-woocommerce-category-banner-management.php:430
+#: includes/class-woocommerce-category-banner-management.php:499
+msgid "select start date which date banner will display on website"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:499
+#: admin/class-woocommerce-category-banner-management-admin.php:590
+#: admin/class-woocommerce-category-banner-management-admin.php:681
+#: admin/partials/wcbm-banner-settings-page.php:328
+#: admin/partials/wcbm-banner-settings-page.php:479
+#: admin/partials/wcbm-banner-settings-page.php:811
+#: admin/partials/wcbm-banner-settings-page.php:1147
+#: admin/partials/wcbm-banner-settings-page.php:1462
+#: admin/partials/wcbm-banner-settings-page.php:1856
+#: admin/partials/wcbm-banner-settings-page.php:2224
+#: includes/class-woocommerce-category-banner-management.php:376
+#: includes/class-woocommerce-category-banner-management.php:444
+#: includes/class-woocommerce-category-banner-management.php:513
+msgid "End Date"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:502
+#: admin/class-woocommerce-category-banner-management-admin.php:593
+#: admin/class-woocommerce-category-banner-management-admin.php:684
+#: admin/partials/wcbm-banner-settings-page.php:1465
+#: admin/partials/wcbm-banner-settings-page.php:1859
+#: includes/class-woocommerce-category-banner-management.php:379
+#: includes/class-woocommerce-category-banner-management.php:447
+#: includes/class-woocommerce-category-banner-management.php:516
+msgid "select ending date which date banner will stop displaying on website"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:516
+#: admin/class-woocommerce-category-banner-management-admin.php:607
+#: admin/class-woocommerce-category-banner-management-admin.php:698
+#: admin/partials/wcbm-banner-settings-page.php:341
+#: admin/partials/wcbm-banner-settings-page.php:493
+#: admin/partials/wcbm-banner-settings-page.php:825
+#: admin/partials/wcbm-banner-settings-page.php:1161
+#: admin/partials/wcbm-banner-settings-page.php:1476
+#: admin/partials/wcbm-banner-settings-page.php:1870
+#: admin/partials/wcbm-banner-settings-page.php:2238
+#: includes/class-woocommerce-category-banner-management.php:393
+#: includes/class-woocommerce-category-banner-management.php:461
+#: includes/class-woocommerce-category-banner-management.php:530
+msgid "Set banner in top?"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:519
+#: admin/class-woocommerce-category-banner-management-admin.php:610
+#: admin/class-woocommerce-category-banner-management-admin.php:701
+#: admin/partials/wcbm-banner-settings-page.php:344
+#: admin/partials/wcbm-banner-settings-page.php:496
+#: admin/partials/wcbm-banner-settings-page.php:2241
+#: includes/class-woocommerce-category-banner-management.php:396
+#: includes/class-woocommerce-category-banner-management.php:464
+#: includes/class-woocommerce-category-banner-management.php:533
+msgid "If selected than page banner comes after header tag from top"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:719
+#: admin/partials/wcbm-banner-settings-page.php:524
+#: admin/partials/wcbm-banner-settings-page.php:654
+#: admin/partials/wcbm-banner-settings-page.php:856
+#: admin/partials/wcbm-banner-settings-page.php:990
+#: admin/partials/wcbm-banner-settings-page.php:1191
+#: admin/partials/wcbm-banner-settings-page.php:1326
+#: admin/partials/wcbm-banner-settings-page.php:1508
+#: admin/partials/wcbm-banner-settings-page.php:1643
+#: admin/partials/wcbm-banner-settings-page.php:1902
+#: admin/partials/wcbm-banner-settings-page.php:2037
+#: admin/partials/wcbm-banner-settings-page.php:2269
+#: admin/partials/wcbm-banner-settings-page.php:2397
+#: includes/class-woocommerce-category-banner-management.php:552
+msgid "Banner Image"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:723
+#: admin/class-woocommerce-category-banner-management-admin.php:981
+#: admin/partials/wcbm-banner-settings-page.php:658
+#: admin/partials/wcbm-banner-settings-page.php:861
+#: admin/partials/wcbm-banner-settings-page.php:994
+#: admin/partials/wcbm-banner-settings-page.php:1196
+#: admin/partials/wcbm-banner-settings-page.php:1330
+#: admin/partials/wcbm-banner-settings-page.php:1513
+#: admin/partials/wcbm-banner-settings-page.php:1647
+#: admin/partials/wcbm-banner-settings-page.php:1907
+#: admin/partials/wcbm-banner-settings-page.php:2041
+#: admin/partials/wcbm-banner-settings-page.php:2401
+#: includes/class-woocommerce-category-banner-management.php:556
+#: includes/class-woocommerce-category-banner-management.php:845
+msgid "Select File"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:724
+#: admin/class-woocommerce-category-banner-management-admin.php:983
+#: admin/partials/wcbm-banner-settings-page.php:529
+#: admin/partials/wcbm-banner-settings-page.php:862
+#: admin/partials/wcbm-banner-settings-page.php:995
+#: admin/partials/wcbm-banner-settings-page.php:1197
+#: admin/partials/wcbm-banner-settings-page.php:1331
+#: admin/partials/wcbm-banner-settings-page.php:1514
+#: admin/partials/wcbm-banner-settings-page.php:1648
+#: admin/partials/wcbm-banner-settings-page.php:1908
+#: admin/partials/wcbm-banner-settings-page.php:2042
+#: admin/partials/wcbm-banner-settings-page.php:2274
+#: includes/class-woocommerce-category-banner-management.php:557
+#: includes/class-woocommerce-category-banner-management.php:847
+msgid "Include File"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:724
+#: admin/class-woocommerce-category-banner-management-admin.php:983
+#: admin/partials/wcbm-banner-settings-page.php:529
+#: admin/partials/wcbm-banner-settings-page.php:659
+#: admin/partials/wcbm-banner-settings-page.php:862
+#: admin/partials/wcbm-banner-settings-page.php:995
+#: admin/partials/wcbm-banner-settings-page.php:1197
+#: admin/partials/wcbm-banner-settings-page.php:1331
+#: admin/partials/wcbm-banner-settings-page.php:1514
+#: admin/partials/wcbm-banner-settings-page.php:1648
+#: admin/partials/wcbm-banner-settings-page.php:1908
+#: admin/partials/wcbm-banner-settings-page.php:2042
+#: admin/partials/wcbm-banner-settings-page.php:2274
+#: admin/partials/wcbm-banner-settings-page.php:2402
+#: includes/class-woocommerce-category-banner-management.php:557
+#: includes/class-woocommerce-category-banner-management.php:847
+msgid "Upload File"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:726
+#: admin/partials/wcbm-banner-settings-page.php:531
+#: admin/partials/wcbm-banner-settings-page.php:864
+#: admin/partials/wcbm-banner-settings-page.php:1199
+#: admin/partials/wcbm-banner-settings-page.php:1516
+#: admin/partials/wcbm-banner-settings-page.php:1910
+#: admin/partials/wcbm-banner-settings-page.php:2276
+#: includes/class-woocommerce-category-banner-management.php:559
+msgid "Remove File"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:747
+#: includes/class-woocommerce-category-banner-management.php:580
+msgid "Banner image link"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:754
+#: admin/partials/wcbm-banner-settings-page.php:557
+#: admin/partials/wcbm-banner-settings-page.php:890
+#: admin/partials/wcbm-banner-settings-page.php:1225
+#: admin/partials/wcbm-banner-settings-page.php:1542
+#: admin/partials/wcbm-banner-settings-page.php:1936
+#: admin/partials/wcbm-banner-settings-page.php:2302
+#: includes/class-woocommerce-category-banner-management.php:587
+msgid "Where users will be directed if they click on the banner."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:759
+#: admin/partials/wcbm-banner-settings-page.php:563
+#: admin/partials/wcbm-banner-settings-page.php:896
+#: admin/partials/wcbm-banner-settings-page.php:1231
+#: admin/partials/wcbm-banner-settings-page.php:1548
+#: admin/partials/wcbm-banner-settings-page.php:1942
+#: admin/partials/wcbm-banner-settings-page.php:2308
+#: includes/class-woocommerce-category-banner-management.php:592
+msgid "Select Link Target"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:764
+#: admin/partials/wcbm-banner-settings-page.php:569
+#: admin/partials/wcbm-banner-settings-page.php:902
+#: admin/partials/wcbm-banner-settings-page.php:1237
+#: admin/partials/wcbm-banner-settings-page.php:1554
+#: admin/partials/wcbm-banner-settings-page.php:1948
+#: admin/partials/wcbm-banner-settings-page.php:2314
+#: includes/class-woocommerce-category-banner-management.php:597
+msgid "Self window"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:768
+#: admin/partials/wcbm-banner-settings-page.php:573
+#: admin/partials/wcbm-banner-settings-page.php:906
+#: admin/partials/wcbm-banner-settings-page.php:1241
+#: admin/partials/wcbm-banner-settings-page.php:1558
+#: admin/partials/wcbm-banner-settings-page.php:1952
+#: admin/partials/wcbm-banner-settings-page.php:2318
+#: includes/class-woocommerce-category-banner-management.php:601
+msgid "New window"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:775
+#: admin/partials/wcbm-banner-settings-page.php:580
+#: admin/partials/wcbm-banner-settings-page.php:913
+#: admin/partials/wcbm-banner-settings-page.php:1248
+#: admin/partials/wcbm-banner-settings-page.php:1565
+#: admin/partials/wcbm-banner-settings-page.php:1959
+#: admin/partials/wcbm-banner-settings-page.php:2325
+#: includes/class-woocommerce-category-banner-management.php:608
+msgid "Select Link Relation"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:780
+#: admin/partials/wcbm-banner-settings-page.php:586
+#: admin/partials/wcbm-banner-settings-page.php:919
+#: admin/partials/wcbm-banner-settings-page.php:1254
+#: admin/partials/wcbm-banner-settings-page.php:1571
+#: admin/partials/wcbm-banner-settings-page.php:1965
+#: admin/partials/wcbm-banner-settings-page.php:2331
+#: includes/class-woocommerce-category-banner-management.php:613
+msgid "Follow"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:784
+#: admin/partials/wcbm-banner-settings-page.php:590
+#: admin/partials/wcbm-banner-settings-page.php:923
+#: admin/partials/wcbm-banner-settings-page.php:1258
+#: admin/partials/wcbm-banner-settings-page.php:1575
+#: admin/partials/wcbm-banner-settings-page.php:1969
+#: admin/partials/wcbm-banner-settings-page.php:2335
+#: includes/class-woocommerce-category-banner-management.php:617
+msgid "No follow"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:792
+#: admin/partials/wcbm-banner-settings-page.php:1721
+#: includes/class-woocommerce-category-banner-management.php:625
+msgid "Select Banner Size"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:796
+#: admin/partials/wcbm-banner-settings-page.php:1730
+#: includes/class-woocommerce-category-banner-management.php:629
+msgid "-- Select Banner Size --"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:799
+#: admin/partials/wcbm-banner-settings-page.php:1734
+#: includes/class-woocommerce-category-banner-management.php:632
+msgid "25%"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:802
+#: admin/partials/wcbm-banner-settings-page.php:1738
+#: includes/class-woocommerce-category-banner-management.php:635
+msgid "50%"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:805
+#: admin/partials/wcbm-banner-settings-page.php:1742
+#: includes/class-woocommerce-category-banner-management.php:638
+msgid "75%"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:808
+#: admin/partials/wcbm-banner-settings-page.php:1746
+#: includes/class-woocommerce-category-banner-management.php:641
+msgid "100%"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:811
+#: admin/partials/wcbm-banner-settings-page.php:1750
+#: includes/class-woocommerce-category-banner-management.php:644
+msgid "Fixed to container(1080px)"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:820
+msgid "Show category default title?"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:823
+msgid ""
+"If selected then it will show the default category title on banner with "
+"center position."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:838
+msgid "Select Category title color"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:849
+msgid "Select Category title size."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:852
+#: includes/class-woocommerce-category-banner-management.php:717
+msgid "Configure the font size of default banner title."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:866
+#: includes/class-woocommerce-category-banner-management.php:731
+msgid "Button Text"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:878
+#: includes/class-woocommerce-category-banner-management.php:743
+msgid "Button Link"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:889
+#: includes/class-woocommerce-category-banner-management.php:754
+msgid "Select button text color"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:900
+#: includes/class-woocommerce-category-banner-management.php:765
+msgid "Select button background color"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:912
+#: includes/class-woocommerce-category-banner-management.php:777
+msgid "Button Description"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:925
+#: admin/partials/wcbm-banner-settings-page.php:608
+#: admin/partials/wcbm-banner-settings-page.php:943
+#: admin/partials/wcbm-banner-settings-page.php:1277
+#: admin/partials/wcbm-banner-settings-page.php:1594
+#: admin/partials/wcbm-banner-settings-page.php:1988
+#: admin/partials/wcbm-banner-settings-page.php:2353
+#: includes/class-woocommerce-category-banner-management.php:789
+msgid "Banner Type"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:932
+#: admin/partials/wcbm-banner-settings-page.php:615
+#: admin/partials/wcbm-banner-settings-page.php:951
+#: admin/partials/wcbm-banner-settings-page.php:1286
+#: admin/partials/wcbm-banner-settings-page.php:1603
+#: admin/partials/wcbm-banner-settings-page.php:1997
+#: admin/partials/wcbm-banner-settings-page.php:2360
+#: admin/partials/wcbm-product-sliders-form.php:423
+#: admin/partials/wcbm-product-sliders-form.php:723
+#: includes/class-woocommerce-category-banner-management.php:796
+msgid "Random"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:936
+#: admin/partials/wcbm-banner-settings-page.php:619
+#: admin/partials/wcbm-banner-settings-page.php:956
+#: admin/partials/wcbm-banner-settings-page.php:1292
+#: admin/partials/wcbm-banner-settings-page.php:1609
+#: admin/partials/wcbm-banner-settings-page.php:2003
+#: admin/partials/wcbm-banner-settings-page.php:2364
+#: admin/partials/wcbm-category-sliders-form.php:151
+#: admin/partials/wcbm-category-sliders-form.php:187
+#: admin/partials/wcbm-category-sliders-form.php:224
+#: admin/partials/wcbm-category-sliders-form.php:602
+#: admin/partials/wcbm-category-sliders-form.php:638
+#: includes/class-woocommerce-category-banner-management.php:800
+msgid "Slider"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:943
+#: admin/partials/wcbm-banner-settings-page.php:626
+#: admin/partials/wcbm-banner-settings-page.php:963
+#: admin/partials/wcbm-banner-settings-page.php:1299
+#: admin/partials/wcbm-banner-settings-page.php:1616
+#: admin/partials/wcbm-banner-settings-page.php:2009
+#: admin/partials/wcbm-banner-settings-page.php:2371
+#: includes/class-woocommerce-category-banner-management.php:807
+msgid "Display Navigation"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:955
+#: admin/partials/wcbm-banner-settings-page.php:637
+#: admin/partials/wcbm-banner-settings-page.php:973
+#: admin/partials/wcbm-banner-settings-page.php:1309
+#: admin/partials/wcbm-banner-settings-page.php:1626
+#: admin/partials/wcbm-banner-settings-page.php:2020
+#: admin/partials/wcbm-banner-settings-page.php:2381
+#: includes/class-woocommerce-category-banner-management.php:819
+msgid "Select slider arrow color"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:965
+#: admin/partials/wcbm-banner-settings-page.php:646
+#: admin/partials/wcbm-banner-settings-page.php:982
+#: admin/partials/wcbm-banner-settings-page.php:1318
+#: admin/partials/wcbm-banner-settings-page.php:1635
+#: admin/partials/wcbm-banner-settings-page.php:2029
+#: admin/partials/wcbm-banner-settings-page.php:2389
+#: includes/class-woocommerce-category-banner-management.php:829
+msgid "Select slider arrow background color"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:976
+#: includes/class-woocommerce-category-banner-management.php:840
+msgid "Banner Images"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:984
+#: admin/partials/wcbm-banner-settings-page.php:661
+#: admin/partials/wcbm-banner-settings-page.php:997
+#: admin/partials/wcbm-banner-settings-page.php:1333
+#: admin/partials/wcbm-banner-settings-page.php:1650
+#: admin/partials/wcbm-banner-settings-page.php:2044
+#: admin/partials/wcbm-banner-settings-page.php:2404
+#: includes/class-woocommerce-category-banner-management.php:848
+msgid "Remove All"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:986
+#: admin/partials/wcbm-banner-settings-page.php:663
+#: admin/partials/wcbm-banner-settings-page.php:999
+#: admin/partials/wcbm-banner-settings-page.php:1335
+#: admin/partials/wcbm-banner-settings-page.php:1652
+#: admin/partials/wcbm-banner-settings-page.php:2046
+#: admin/partials/wcbm-banner-settings-page.php:2406
+#: includes/class-woocommerce-category-banner-management.php:850
+msgid "Users can add multiple images. Image size should be 960 * 360."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:1009
+#: admin/partials/wcbm-banner-settings-page.php:684
+#: admin/partials/wcbm-banner-settings-page.php:886
+#: admin/partials/wcbm-banner-settings-page.php:1022
+#: admin/partials/wcbm-banner-settings-page.php:1221
+#: admin/partials/wcbm-banner-settings-page.php:1358
+#: admin/partials/wcbm-banner-settings-page.php:1538
+#: admin/partials/wcbm-banner-settings-page.php:1675
+#: admin/partials/wcbm-banner-settings-page.php:1932
+#: admin/partials/wcbm-banner-settings-page.php:2069
+#: admin/partials/wcbm-banner-settings-page.php:2427
+#: includes/class-woocommerce-category-banner-management.php:873
+msgid "Example: https://multidots.com"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:1013
+#: admin/class-woocommerce-category-banner-management-admin.php:1015
+#: admin/list-tables/class-wbm-category-slider-table.php:225
+#: admin/list-tables/class-wbm-category-slider-table.php:279
+#: admin/list-tables/class-wbm-product-slider-table.php:225
+#: admin/list-tables/class-wbm-product-slider-table.php:279
+#: admin/partials/wcbm-banner-settings-page.php:690
+#: admin/partials/wcbm-banner-settings-page.php:692
+#: admin/partials/wcbm-banner-settings-page.php:1026
+#: admin/partials/wcbm-banner-settings-page.php:1028
+#: admin/partials/wcbm-banner-settings-page.php:1362
+#: admin/partials/wcbm-banner-settings-page.php:1364
+#: admin/partials/wcbm-banner-settings-page.php:1679
+#: admin/partials/wcbm-banner-settings-page.php:1681
+#: admin/partials/wcbm-banner-settings-page.php:2073
+#: admin/partials/wcbm-banner-settings-page.php:2075
+#: admin/partials/wcbm-banner-settings-page.php:2433
+#: admin/partials/wcbm-banner-settings-page.php:2435
+#: includes/class-woocommerce-category-banner-management.php:877
+#: includes/class-woocommerce-category-banner-management.php:879
+msgid "Delete"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:2045
+msgid "Slider rule created."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:2047
+msgid "Slider rule updated."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:2049
+msgid "Slider rule deleted."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:2051
+msgid "Slider rule duplicated."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:2053
+msgid "Slider rule disabled."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:2055
+msgid "Slider rule enabled."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:2058
+msgid "There was an error with saving data."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:2060
+#: admin/class-woocommerce-category-banner-management-admin.php:2070
+msgid "There was an error with security check."
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:2067
+msgid "Settings saved successfully"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:3108
+#: admin/class-woocommerce-category-banner-management-admin.php:3598
+msgid "Please enable the slider's status.!!"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:3569
+#: public/partials/wcbm-banner-public-shortcodes.php:1652
+msgid "Sale!"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:3578
+#: public/partials/wcbm-banner-public-shortcodes.php:1661
+msgid "Read more"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:3580
+#: public/partials/wcbm-banner-public-shortcodes.php:1665
+msgid "Select options"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:3582
+#: public/partials/wcbm-banner-public-shortcodes.php:1669
+msgid "Add to cart"
+msgstr ""
+
+#: admin/class-woocommerce-category-banner-management-admin.php:3585
+#: public/partials/wcbm-banner-public-shortcodes.php:1673
+msgid "View products"
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:49
+#: admin/list-tables/class-wbm-product-slider-table.php:49
+msgid "Title"
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:50
+#: admin/list-tables/class-wbm-product-slider-table.php:50
+msgid "Shortcode"
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:51
+#: admin/list-tables/class-wbm-product-slider-table.php:51
+#: admin/partials/wcbm-category-sliders-form.php:94
+#: admin/partials/wcbm-product-sliders-form.php:88
+msgid "Status"
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:52
+#: admin/list-tables/class-wbm-product-slider-table.php:52
+#: admin/partials/wcbm-category-sliders-form.php:556
+#: admin/partials/wcbm-category-sliders-form.php:913
+#: admin/partials/wcbm-product-sliders-form.php:421
+#: admin/partials/wcbm-product-sliders-form.php:721
+msgid "Date"
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:131
+#: admin/list-tables/class-wbm-product-slider-table.php:131
+msgid "No Sliders Found."
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:224
+#: admin/list-tables/class-wbm-product-slider-table.php:224
+msgid "Edit"
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:239
+#: admin/list-tables/class-wbm-category-slider-table.php:262
+#: admin/list-tables/class-wbm-product-slider-table.php:239
+#: admin/list-tables/class-wbm-product-slider-table.php:262
+msgid "Everywhere"
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:277
+#: admin/list-tables/class-wbm-product-slider-table.php:277
+msgid "Disable"
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:278
+#: admin/list-tables/class-wbm-product-slider-table.php:278
+msgid "Enable"
+msgstr ""
+
+#: admin/list-tables/class-wbm-category-slider-table.php:403
+#: admin/list-tables/class-wbm-product-slider-table.php:403
+msgid "Slider title"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:24
+msgid "Welcome! 🤗"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:26
+msgid ""
+"Using Banners, spotlight products, advertise sales and specials, and "
+"reinforce your brand identity to increase user interest and boost revenues."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:29
+#: admin/partials/dots-plugin-setup-wizard.php:57
+#: admin/partials/dots-plugin-setup-wizard.php:70
+#: admin/partials/dots-plugin-setup-wizard.php:115
+msgid "Continue"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:39
+msgid "Help us build a better \"Banner Management\" Plugin!"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:40
+msgid ""
+"Get improved features and faster fixes by sharing non-sensitive data via "
+"usage-tracking. This will help us make the plugin more compatible with your "
+"site. No personal data is tracked or stored."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:42
+#: admin/partials/dots-plugin-setup-wizard.php:50
+msgid "Yes, count me in!"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:47
+msgid "Never miss an important update"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:48
+msgid ""
+"Opt-in to get email notifications for security & feature updates and to "
+"share some important WooCommerce updates. This will help us make the plugin "
+"more compatible with your version and better at doing what you need it to. "
+"No personal data is tracked or stored."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:64
+#: admin/partials/dots-plugin-setup-wizard.php:66
+msgid "Quick Tour"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:77
+msgid "You are all set, almost!"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:82
+msgid "Would you mind telling how did you hear about us?"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:84
+msgid "Select One"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:85
+msgid "Social Media"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:86
+msgid "Search Engine"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:87
+msgid "LearnWoo"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:88
+msgid "WPLift"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:89
+msgid "WPBeginner"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:90
+msgid "Do the Woo"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:91
+msgid "WP Mayor"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:92
+msgid "Astra"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:93
+msgid "WPExplorer"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:94
+msgid "Medium"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:95
+msgid "Others"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:102
+msgid "Be our friend on"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:119
+msgid "Done"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:50
+msgid "Banner Slider for Any Page"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:51
+msgid ""
+"Easily add a banner or slider to any page in your WooCommerce store, "
+"including the landing page, about, contact, and more."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:54
+msgid ""
+"Easily add eye-catching banners to any website page, from the shop to the "
+"thank you page, product pages, and more."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:57
+msgid ""
+"Increase engagement and conversions by strategically placing visually "
+"appealing banners that deliver targeted messages."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:58
+msgid ""
+"Effortlessly resize, position, and align banners with a few clicks for the "
+"perfect placement and impactful promotion of special offers, new products, "
+"and announcements."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:62
+msgid "Auto-Schedule Banner Slider"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:63
+msgid ""
+"Automatically activate and deactivate your banner slider based on offer "
+"durations by setting an end date."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:66
+msgid ""
+"Simplify your banner management process with the Auto-Schedule Slider "
+"feature."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:69
+msgid ""
+"Automatically schedule and display banners at predefined times, ensuring "
+"timely promotions without manual intervention."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:70
+msgid ""
+"Save time and effort by setting up your banner campaigns in advance and "
+"letting the Auto-Schedule Slider handle the display."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:74
+msgid "Add Call to Action on Banner"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:75
+msgid ""
+"Encourage shoppers to take action with a powerful and customizable "
+"call-to-action button on your banner, complete with a custom link for easy "
+"navigation."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:78
+msgid "Drive action and conversions with our powerful Call to Action (CTA) feature."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:81
+msgid ""
+"Engage your website visitors and guide them towards desired actions, such "
+"as making a purchase, signing up for a newsletter, or contacting your "
+"business."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:82
+msgid ""
+"Add a call-to-action button with a link to your shop page to encourage "
+"customer purchases with exclusive discounts."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:86
+msgid "Customize Banner Positioning"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:87
+msgid ""
+"Easily adjust your banner's placement on your webpage to make it more "
+"eye-catching and effective in grabbing shoppers' attention."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:90
+msgid ""
+"Achieve precise and strategic banner placement on your website with our "
+"Banner Positioning feature."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:93
+msgid ""
+"Seamlessly control where banners appear, ensuring maximum visibility and "
+"impact for your promotional messages."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:94
+msgid ""
+"Customize the position of your banners on different pages, such as the top "
+"header or after title."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:98
+msgid "Add a Random Banner Slider"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:99
+msgid ""
+"Display one or multiple banners anywhere you choose, with randomized "
+"rotation. Maximize engagement and deliver diverse messages, capturing "
+"attention effectively."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:102
+msgid ""
+"Maximize the effectiveness of your promotional efforts by leveraging the "
+"power of random banners."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:105
+msgid ""
+"Enjoy the flexibility of random banner rotation, ensuring that each visit "
+"to your website presents visitors with a fresh and unique banner."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:106
+msgid ""
+"Engage your audience with a variety of messages, promotions, and visuals, "
+"keeping them interested and enticing them to explore further."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:110
+msgid "Multi-Platform Compatibility"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:111
+msgid ""
+"Display your banner or carousel slider flawlessly on all devices, including "
+"desktops, tablets, and mobile devices, with automatic responsiveness."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:114
+msgid ""
+"Ensure seamless functionality across various platforms with our "
+"Multi-Platform Compatibility feature."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:117
+msgid ""
+"Our plugin is designed to work effortlessly on different operating systems, "
+"browsers, and devices, providing a consistent experience for all users."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:118
+msgid ""
+"Reach a wider audience by supporting popular platforms such as Windows, "
+"macOS, iOS, Android, and major web browsers including Chrome, Firefox, "
+"Safari, and Edge."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:122
+msgid "Set The Layout Preset"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:123
+msgid ""
+"It allows you to align the product/category listing layout with your "
+"website layout, such as slider, grid, or block."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:126
+msgid ""
+"Customize the visual presentation of your banners effortlessly with our "
+"Layout Preset feature. "
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:129
+msgid ""
+"Choose from a variety of layout options, including slider, grid, and block, "
+"to showcase your slider in a visually appealing and organized manner."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:130
+msgid ""
+"Opt for a slider layout to create an engaging slideshow of banners that "
+"catch the attention of your website visitors."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:134
+msgid "Quick Preview Before Live"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:135
+msgid ""
+"Save time and effort with instant previewing of custom changes, allowing "
+"you to make adjustments without the need to save repeatedly confidently."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:138
+msgid "Quickly preview banners or sliders before making them live on the website. "
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:141
+msgid ""
+"This feature provides a convenient way to review and ensure the visual "
+"appearance, content, and functionality of banners or sliders without "
+"extensive testing or publishing them publicly."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:142
+msgid ""
+"Preview your category or product slider settings before making them live "
+"and save valuable time and effort."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:149
+msgid "Upgrade to Unlock Premium Features"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:150
+msgid ""
+"Upgrade to the premium version to access advanced features and spotlight "
+"products, advertise sales, and boost revenues!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:154
+msgid "Discover Our Top Key Features"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:167
+msgid "Close"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:211
+msgid "Personal Plan"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:213
+msgid "Personal"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:219
+msgid "month"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:220
+msgid "Pay $%s today. Renews in 12 months."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:224
+msgid "1 site"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:225
+msgid "Great for website owners with a single WooCommerce Store"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:228
+#: admin/partials/dots-upgrade-dashboard.php:328
+msgid "Get The Premium Version"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:229
+msgid "Trusted by 100,000+ store owners and WP experts!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:234
+msgid "14-Day money-back guarantee"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:237
+msgid "14-Day Satisfaction Guarantee"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:238
+msgid ""
+"You are fully protected by our 100% Satisfaction Guarantee. If over the "
+"next 14 days you are unhappy with our plugin or have an issue that we are "
+"unable to resolve, we'll happily consider offering a 100% refund of your "
+"money."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:242
+msgid "So Many Options-Love It"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:244
+msgid ""
+"<strong>Simple to install and use</strong>. I love the option to use "
+"different banners/headers for different pages in the store to promote "
+"product discounts. <strong>Exactly what I was looking for</strong>!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:251
+msgid "Customer Profile Image"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:254
+msgid "Eliana Lockhart"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:265
+msgid "Verified Customer"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:274
+msgid "FAQs"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:278
+msgid "Do you offer support for the plugin? What’s it like?"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:284
+msgid ""
+"Yes! You can read our %s or submit a %s. We are very responsive and strive "
+"to do our best to help you."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:285
+msgid "knowledge base"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:286
+msgid "support ticket"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:295
+msgid "What payment methods do you accept?"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:298
+msgid ""
+"You can pay with your credit card using Stripe checkout. Or your PayPal "
+"account."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:303
+msgid "What’s your refund policy?"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:306
+msgid "We have a 14-day money-back guarantee."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:311
+msgid "I have more questions…"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:317
+msgid "No problem, we’re happy to help! Please reach out at %s."
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:41
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:48
+msgid "Unlock Premium Features with a %s%% Discount!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:52
+msgid "Unlock Premium Features Today!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:56
+msgid ""
+"Unlock a world of possibilities for your WooCommerce store with our Premium "
+"Banner Management plugin!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:58
+msgid "Set a global banner for all products and pages."
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:59
+msgid "Create a slider for specific products or categories."
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:60
+msgid "Fully-customizable slider options."
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:61
+msgid "Option to hide/show offers banner based on date range."
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:65
+#: admin/partials/header/plugin-header.php:71
+#: admin/partials/header/plugin-header.php:79
+msgid "Upgrade Now"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:45
+#: includes/class-woocommerce-category-banner-management.php:1043
+msgid "Support"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:50
+msgid "Suggest"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:55
+msgid "Help"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:64
+msgid "My Account"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:133
+msgid "Manage Slider"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:136
+#: includes/class-woocommerce-category-banner-management.php:1041
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:142
+msgid "License"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:148
+msgid "Get Premium"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:171
+#: admin/partials/wcbm-banner-settings-page.php:1706
+msgid "Global Settings"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:172
+msgid "Shop Plugins"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:177
+#: admin/partials/wcbm-category-sliders-page.php:32
+msgid "Category Slider"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:178
+#: admin/partials/wcbm-product-sliders-page.php:31
+msgid "Product Slider"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:309
+msgid "Multiple Banner 🔒"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:318
+#: admin/partials/wcbm-banner-settings-page.php:467
+#: admin/partials/wcbm-banner-settings-page.php:800
+#: admin/partials/wcbm-banner-settings-page.php:2212
+msgid "Select start date which date banner will display on website"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:331
+#: admin/partials/wcbm-banner-settings-page.php:482
+#: admin/partials/wcbm-banner-settings-page.php:814
+#: admin/partials/wcbm-banner-settings-page.php:1150
+#: admin/partials/wcbm-banner-settings-page.php:2227
+msgid "Select ending date which date banner will stop displaying on website"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:359
+msgid "Banner saved succesfully"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:367
+#: admin/partials/wcbm-banner-settings-page.php:2462
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:372
+msgid "Checkout Page Specific Banner Settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:375
+msgid ""
+"You can upload custom banner on page specific. Easily update the image and "
+"redirect page URL from below setting option."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:389
+msgid "Banner for shop page "
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:438
+#: admin/partials/wcbm-banner-settings-page.php:773
+#: admin/partials/wcbm-banner-settings-page.php:1108
+#: admin/partials/wcbm-banner-settings-page.php:1423
+#: admin/partials/wcbm-banner-settings-page.php:1817
+#: admin/partials/wcbm-banner-settings-page.php:2184
+#: admin/partials/wcbm-category-sliders-form.php:81
+#: admin/partials/wcbm-product-sliders-form.php:75
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:550
+#: admin/partials/wcbm-banner-settings-page.php:883
+#: admin/partials/wcbm-banner-settings-page.php:1218
+#: admin/partials/wcbm-banner-settings-page.php:1535
+#: admin/partials/wcbm-banner-settings-page.php:1929
+#: admin/partials/wcbm-banner-settings-page.php:2295
+msgid "Banner Image Link"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:724
+msgid "Banner for cart page"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:828
+#: admin/partials/wcbm-banner-settings-page.php:1164
+#: admin/partials/wcbm-banner-settings-page.php:1479
+#: admin/partials/wcbm-banner-settings-page.php:1873
+msgid "If selected than page banner comes after the header tag from top."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1059
+msgid "Banner for checkout page"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1086
+msgid "Preview :"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1395
+msgid "Banner for thank you page"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1709
+msgid "You can set global options for Woocommerce pages and products."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1714
+msgid "Default woocommerce page banner settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1723
+msgid ""
+"Select the size of banner from dropdown which will apply on all the default "
+"woocommerce pages."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1772
+msgid "Product page banner settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1781
+msgid "Enable product page banner settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1783
+msgid ""
+"If selected then, enable the product page banner setting meta box section "
+"for each product."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1794
+msgid "Set common banner for all product"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:1796
+msgid ""
+"If selected then, override all the product page banner se\n"
+"                                                ttings and set these "
+"updated settings globally for all products."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2104
+msgid "Other new page banner settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2118
+#: admin/partials/wcbm-banner-settings-page.php:2133
+#: admin/partials/wcbm-banner-settings-page.php:2148
+msgid "Enable other page banner settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2120
+#: admin/partials/wcbm-banner-settings-page.php:2135
+#: admin/partials/wcbm-banner-settings-page.php:2150
+msgid ""
+"If selected then, enable website other pages banner setting meta box "
+"section for each page."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2161
+msgid "Set global banner for pages"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2165
+msgid ""
+"If selected then, override all the pages banner settings and set these "
+"updated settings globally for all pages."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2467
+msgid "Products, Common pages, Categories, and Tags preview and settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2472
+msgid "Product specific banner settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2474
+msgid ""
+"You can upload custom banner at the top of your product pages. Easily "
+"update the image through your product edit page."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2477
+msgid " to preview product page banner settings."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2488
+msgid "Go to product page"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2490
+#: admin/partials/wcbm-banner-settings-page.php:2513
+#: admin/partials/wcbm-banner-settings-page.php:2545
+#: admin/partials/wcbm-banner-settings-page.php:2577
+msgid "click here"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2495
+msgid "Other pages specific banner settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2497
+msgid ""
+"You can upload custom banner at the top of your website other pages. Easily "
+"update the image through your website other pages edit page."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2500
+msgid " to preview common page banner settings."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2511
+msgid "Go to website other page"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2518
+msgid "Category specific banner settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2520
+msgid ""
+"You can upload custom banner at the top of your product category pages. "
+"Easily update the image through your product category edit page."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2523
+msgid " to preview product category page banner settings."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2543
+msgid "Go to category page"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2550
+msgid "Tag specific banner settings"
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2552
+msgid ""
+"You can upload custom banner at the top of your product tag pages. Easily "
+"update the image through your product tag edit page."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2555
+msgid " to preview product tag page banner settings."
+msgstr ""
+
+#: admin/partials/wcbm-banner-settings-page.php:2575
+msgid "Go to Tag page"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:59
+#: admin/partials/wcbm-product-sliders-form.php:53
+msgid "Edit Slider"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:68
+#: admin/partials/wcbm-product-sliders-form.php:62
+msgid "Add New Slider"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:76
+#: admin/partials/wcbm-product-sliders-form.php:70
+msgid "Add slider title"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:82
+#: admin/partials/wcbm-product-sliders-form.php:76
+msgid "Display Options"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:83
+#: admin/partials/wcbm-product-sliders-form.php:77
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:85
+#: admin/partials/wcbm-product-sliders-form.php:79
+msgid "Typography"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:97
+#: admin/partials/wcbm-product-sliders-form.php:91
+msgid ""
+"Enable or Disable this slider using this button (This slider will work only "
+"if it is enabled)."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:138
+#: admin/partials/wcbm-category-sliders-form.php:174
+#: admin/partials/wcbm-category-sliders-form.php:211
+#: admin/partials/wcbm-category-sliders-form.php:589
+#: admin/partials/wcbm-category-sliders-form.php:625
+msgid "Layout Preset"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:141
+#: admin/partials/wcbm-category-sliders-form.php:177
+#: admin/partials/wcbm-category-sliders-form.php:214
+#: admin/partials/wcbm-category-sliders-form.php:592
+#: admin/partials/wcbm-category-sliders-form.php:628
+msgid "Choose a layout preset."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:158
+#: admin/partials/wcbm-category-sliders-form.php:194
+#: admin/partials/wcbm-category-sliders-form.php:231
+#: admin/partials/wcbm-category-sliders-form.php:609
+#: admin/partials/wcbm-category-sliders-form.php:645
+msgid "Grid"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:165
+#: admin/partials/wcbm-category-sliders-form.php:201
+#: admin/partials/wcbm-category-sliders-form.php:238
+#: admin/partials/wcbm-category-sliders-form.php:616
+#: admin/partials/wcbm-category-sliders-form.php:652
+msgid "Block"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:247
+#: admin/partials/wcbm-category-sliders-form.php:661
+#: admin/partials/wcbm-product-sliders-form.php:123
+#: admin/partials/wcbm-product-sliders-form.php:450
+msgid "Slider Mode"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:253
+#: admin/partials/wcbm-category-sliders-form.php:667
+#: admin/partials/wcbm-product-sliders-form.php:129
+#: admin/partials/wcbm-product-sliders-form.php:456
+msgid "Standard"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:257
+#: admin/partials/wcbm-category-sliders-form.php:671
+#: admin/partials/wcbm-product-sliders-form.php:133
+#: admin/partials/wcbm-product-sliders-form.php:460
+msgid "Ticker"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:264
+#: admin/partials/wcbm-category-sliders-form.php:679
+msgid "Category Type"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:267
+#: admin/partials/wcbm-category-sliders-form.php:682
+msgid "Select a category type."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:278
+#: admin/partials/wcbm-category-sliders-form.php:693
+msgid "Parent"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:285
+#: admin/partials/wcbm-category-sliders-form.php:408
+#: admin/partials/wcbm-category-sliders-form.php:700
+#: admin/partials/wcbm-category-sliders-form.php:809
+msgid "Parent and Child"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:289
+#: admin/partials/wcbm-category-sliders-form.php:294
+#: admin/partials/wcbm-category-sliders-form.php:704
+#: admin/partials/wcbm-category-sliders-form.php:709
+msgid "Parent and Child 🔒"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:302
+#: admin/partials/wcbm-category-sliders-form.php:717
+msgid "Filter Categories"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:305
+#: admin/partials/wcbm-category-sliders-form.php:720
+msgid "Select an option to filter the categories."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:314
+#: admin/partials/wcbm-category-sliders-form.php:726
+#: admin/partials/wcbm-product-sliders-form.php:149
+#: admin/partials/wcbm-product-sliders-form.php:476
+msgid "All"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:315
+#: admin/partials/wcbm-category-sliders-form.php:727
+#: admin/partials/wcbm-product-sliders-form.php:156
+#: admin/partials/wcbm-product-sliders-form.php:483
+msgid "Specific Category(s)"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:320
+#: admin/partials/wcbm-category-sliders-form.php:732
+msgid "Exclude"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:323
+#: admin/partials/wcbm-category-sliders-form.php:327
+#: admin/partials/wcbm-category-sliders-form.php:735
+#: admin/partials/wcbm-category-sliders-form.php:739
+msgid "Exclude 🔒"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:337
+#: admin/partials/wcbm-category-sliders-form.php:748
+#: admin/partials/wcbm-product-sliders-form.php:235
+#: admin/partials/wcbm-product-sliders-form.php:555
+msgid "Choose Category(s)"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:340
+#: admin/partials/wcbm-category-sliders-form.php:751
+#: admin/partials/wcbm-product-sliders-form.php:238
+#: admin/partials/wcbm-product-sliders-form.php:558
+msgid "Choose the specific category(s) to show."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:348
+#: admin/partials/wcbm-category-sliders-form.php:385
+#: admin/partials/wcbm-category-sliders-form.php:417
+#: admin/partials/wcbm-category-sliders-form.php:759
+#: admin/partials/wcbm-category-sliders-form.php:791
+#: admin/partials/wcbm-category-sliders-form.php:818
+#: admin/partials/wcbm-product-sliders-form.php:243
+#: admin/partials/wcbm-product-sliders-form.php:563
+msgid "Select a Category"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:374
+#: admin/partials/wcbm-category-sliders-form.php:780
+msgid "Choose to Exclude Category(s)"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:377
+#: admin/partials/wcbm-category-sliders-form.php:783
+msgid "Choose the category(s) to exclude."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:411
+#: admin/partials/wcbm-category-sliders-form.php:812
+msgid "Select category(s). Leave it empty to show all level of categories"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:445
+msgid "Display Type"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:448
+msgid "Select an display type for parent and child categories."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:460
+msgid "Individualize Each"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:467
+msgid "Child Under Parent"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:478
+#: admin/partials/wcbm-category-sliders-form.php:844
+msgid "Total Categories to Show"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:481
+#: admin/partials/wcbm-category-sliders-form.php:847
+msgid "Total number of categories to display."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:494
+#: admin/partials/wcbm-category-sliders-form.php:857
+msgid "Category Column(s)"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:497
+#: admin/partials/wcbm-category-sliders-form.php:860
+#: admin/partials/wcbm-product-sliders-form.php:368
+#: admin/partials/wcbm-product-sliders-form.php:668
+msgid ""
+"Set number of column(s) in different devices for responsive "
+"view.<p><span><i class=\"fa fa-television\"></i>LARGE DESKTOP - Screens "
+"larger than 1280px.</span><span><i class=\"fa fa-desktop\"></i>DESKTOP - "
+"Screens smaller than 1280px.</span><span><i class=\"fa "
+"fa-laptop\"></i>LAPTOP - Screens smaller than 980px.</span><span><i "
+"class=\"fa fa-tablet-screen-button\"></i>TABLET - Screens smaller than "
+"736px.</span><span><i class=\"fa fa-mobile-screen-button\"></i>MOBILE - "
+"Screens smaller than 480px.</span></p>"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:542
+#: admin/partials/wcbm-category-sliders-form.php:902
+#: admin/partials/wcbm-product-sliders-form.php:410
+#: admin/partials/wcbm-product-sliders-form.php:710
+msgid "Order by"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:545
+#: admin/partials/wcbm-category-sliders-form.php:905
+#: admin/partials/wcbm-product-sliders-form.php:413
+#: admin/partials/wcbm-product-sliders-form.php:713
+msgid "Select an order by option."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:554
+#: admin/partials/wcbm-category-sliders-form.php:911
+#: admin/partials/wcbm-product-sliders-form.php:419
+#: admin/partials/wcbm-product-sliders-form.php:719
+msgid "ID"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:555
+#: admin/partials/wcbm-category-sliders-form.php:912
+#: admin/partials/wcbm-product-sliders-form.php:420
+#: admin/partials/wcbm-product-sliders-form.php:720
+msgid "Name"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:557
+#: admin/partials/wcbm-category-sliders-form.php:914
+msgid "Drag & Drop"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:558
+#: admin/partials/wcbm-category-sliders-form.php:915
+msgid "Count number of product"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:559
+#: admin/partials/wcbm-category-sliders-form.php:916
+#: admin/partials/wcbm-category-sliders-form.php:1147
+#: admin/partials/wcbm-category-sliders-form.php:1473
+#: admin/partials/wcbm-category-sliders-form.php:2282
+#: admin/partials/wcbm-category-sliders-form.php:2452
+#: admin/partials/wcbm-category-sliders-form.php:2788
+#: admin/partials/wcbm-category-sliders-form.php:3001
+#: admin/partials/wcbm-category-sliders-form.php:3204
+#: admin/partials/wcbm-category-sliders-form.php:3409
+#: admin/partials/wcbm-category-sliders-form.php:3845
+#: admin/partials/wcbm-category-sliders-form.php:3940
+#: admin/partials/wcbm-product-sliders-form.php:424
+#: admin/partials/wcbm-product-sliders-form.php:724
+#: admin/partials/wcbm-product-sliders-form.php:1343
+#: admin/partials/wcbm-product-sliders-form.php:1441
+#: admin/partials/wcbm-product-sliders-form.php:1760
+#: admin/partials/wcbm-product-sliders-form.php:1929
+msgid "None"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:565
+#: admin/partials/wcbm-category-sliders-form.php:922
+#: admin/partials/wcbm-product-sliders-form.php:430
+#: admin/partials/wcbm-product-sliders-form.php:730
+msgid "Order"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:568
+#: admin/partials/wcbm-category-sliders-form.php:925
+#: admin/partials/wcbm-product-sliders-form.php:433
+#: admin/partials/wcbm-product-sliders-form.php:733
+msgid "Select an order option."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:577
+#: admin/partials/wcbm-category-sliders-form.php:931
+#: admin/partials/wcbm-product-sliders-form.php:439
+#: admin/partials/wcbm-product-sliders-form.php:739
+msgid "Ascending"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:578
+#: admin/partials/wcbm-category-sliders-form.php:932
+#: admin/partials/wcbm-product-sliders-form.php:440
+#: admin/partials/wcbm-product-sliders-form.php:740
+msgid "Descending"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:984
+#: admin/partials/wcbm-category-sliders-form.php:1328
+#: admin/partials/wcbm-product-sliders-form.php:767
+#: admin/partials/wcbm-product-sliders-form.php:857
+msgid "Section Title"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:987
+#: admin/partials/wcbm-category-sliders-form.php:1331
+msgid "Show/Hide category slider's rule/section title."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1003
+#: admin/partials/wcbm-category-sliders-form.php:1344
+#: admin/partials/wcbm-product-sliders-form.php:783
+#: admin/partials/wcbm-product-sliders-form.php:873
+msgid "Section Title Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1006
+#: admin/partials/wcbm-category-sliders-form.php:1347
+msgid "Set color for category slider's rule/section title."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1019
+#: admin/partials/wcbm-category-sliders-form.php:1357
+#: admin/partials/wcbm-product-sliders-form.php:796
+#: admin/partials/wcbm-product-sliders-form.php:886
+msgid "Margin from Section Title"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1022
+#: admin/partials/wcbm-category-sliders-form.php:1360
+msgid "Set margin for category slider's rule/section title."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1057
+#: admin/partials/wcbm-category-sliders-form.php:1226
+#: admin/partials/wcbm-category-sliders-form.php:1392
+#: admin/partials/wcbm-category-sliders-form.php:1546
+#: admin/partials/wcbm-category-sliders-form.php:1750
+#: admin/partials/wcbm-category-sliders-form.php:1922
+#: admin/partials/wcbm-category-sliders-form.php:1999
+#: admin/partials/wcbm-category-sliders-form.php:2147
+#: admin/partials/wcbm-category-sliders-form.php:2336
+#: admin/partials/wcbm-category-sliders-form.php:2503
+#: admin/partials/wcbm-category-sliders-form.php:2831
+#: admin/partials/wcbm-category-sliders-form.php:2837
+#: admin/partials/wcbm-category-sliders-form.php:2887
+#: admin/partials/wcbm-category-sliders-form.php:2893
+#: admin/partials/wcbm-category-sliders-form.php:2957
+#: admin/partials/wcbm-category-sliders-form.php:3247
+#: admin/partials/wcbm-category-sliders-form.php:3253
+#: admin/partials/wcbm-category-sliders-form.php:3303
+#: admin/partials/wcbm-category-sliders-form.php:3309
+#: admin/partials/wcbm-category-sliders-form.php:3370
+#: admin/partials/wcbm-product-sliders-form.php:831
+#: admin/partials/wcbm-product-sliders-form.php:921
+#: admin/partials/wcbm-product-sliders-form.php:1795
+#: admin/partials/wcbm-product-sliders-form.php:1801
+#: admin/partials/wcbm-product-sliders-form.php:1869
+#: admin/partials/wcbm-product-sliders-form.php:1875
+#: admin/partials/wcbm-product-sliders-form.php:1964
+#: admin/partials/wcbm-product-sliders-form.php:1970
+#: admin/partials/wcbm-product-sliders-form.php:2038
+#: admin/partials/wcbm-product-sliders-form.php:2044
+msgid "px"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1058
+#: admin/partials/wcbm-category-sliders-form.php:1227
+#: admin/partials/wcbm-category-sliders-form.php:1393
+#: admin/partials/wcbm-category-sliders-form.php:1547
+#: admin/partials/wcbm-category-sliders-form.php:1751
+#: admin/partials/wcbm-category-sliders-form.php:1923
+#: admin/partials/wcbm-category-sliders-form.php:2000
+#: admin/partials/wcbm-category-sliders-form.php:2148
+#: admin/partials/wcbm-category-sliders-form.php:2337
+#: admin/partials/wcbm-category-sliders-form.php:2504
+#: admin/partials/wcbm-category-sliders-form.php:2958
+#: admin/partials/wcbm-category-sliders-form.php:3371
+#: admin/partials/wcbm-product-sliders-form.php:832
+#: admin/partials/wcbm-product-sliders-form.php:922
+msgid "em"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1066
+#: admin/partials/wcbm-category-sliders-form.php:1401
+msgid "Space Between Categories (px)"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1069
+#: admin/partials/wcbm-category-sliders-form.php:1404
+#: admin/partials/wcbm-product-sliders-form.php:843
+#: admin/partials/wcbm-product-sliders-form.php:933
+msgid "Set space between each slide."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1082
+#: admin/partials/wcbm-category-sliders-form.php:1414
+msgid "Make it Card Style"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1085
+#: admin/partials/wcbm-category-sliders-form.php:1417
+msgid ""
+"By checking it, you can bring a material feel into your design through "
+"customization."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1101
+#: admin/partials/wcbm-category-sliders-form.php:1430
+msgid "Border (px)"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1104
+#: admin/partials/wcbm-category-sliders-form.php:1433
+msgid "Set category content border for the slider item."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1139
+#: admin/partials/wcbm-category-sliders-form.php:1465
+#: admin/partials/wcbm-category-sliders-form.php:2274
+#: admin/partials/wcbm-category-sliders-form.php:2444
+#: admin/partials/wcbm-category-sliders-form.php:2780
+#: admin/partials/wcbm-category-sliders-form.php:3196
+#: admin/partials/wcbm-category-sliders-form.php:3837
+#: admin/partials/wcbm-category-sliders-form.php:3932
+#: admin/partials/wcbm-product-sliders-form.php:1335
+#: admin/partials/wcbm-product-sliders-form.php:1433
+msgid "Solid"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1140
+#: admin/partials/wcbm-category-sliders-form.php:1466
+#: admin/partials/wcbm-category-sliders-form.php:2275
+#: admin/partials/wcbm-category-sliders-form.php:2445
+#: admin/partials/wcbm-category-sliders-form.php:2781
+#: admin/partials/wcbm-category-sliders-form.php:3197
+#: admin/partials/wcbm-category-sliders-form.php:3838
+#: admin/partials/wcbm-category-sliders-form.php:3933
+#: admin/partials/wcbm-product-sliders-form.php:1336
+#: admin/partials/wcbm-product-sliders-form.php:1434
+msgid "Dashed"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1141
+#: admin/partials/wcbm-category-sliders-form.php:1467
+#: admin/partials/wcbm-category-sliders-form.php:2276
+#: admin/partials/wcbm-category-sliders-form.php:2446
+#: admin/partials/wcbm-category-sliders-form.php:2782
+#: admin/partials/wcbm-category-sliders-form.php:3198
+#: admin/partials/wcbm-category-sliders-form.php:3839
+#: admin/partials/wcbm-category-sliders-form.php:3934
+#: admin/partials/wcbm-product-sliders-form.php:1337
+#: admin/partials/wcbm-product-sliders-form.php:1435
+msgid "Dotted"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1142
+#: admin/partials/wcbm-category-sliders-form.php:1468
+#: admin/partials/wcbm-category-sliders-form.php:2277
+#: admin/partials/wcbm-category-sliders-form.php:2447
+#: admin/partials/wcbm-category-sliders-form.php:2783
+#: admin/partials/wcbm-category-sliders-form.php:3199
+#: admin/partials/wcbm-category-sliders-form.php:3840
+#: admin/partials/wcbm-category-sliders-form.php:3935
+#: admin/partials/wcbm-product-sliders-form.php:1338
+#: admin/partials/wcbm-product-sliders-form.php:1436
+msgid "Double"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1143
+#: admin/partials/wcbm-category-sliders-form.php:1469
+#: admin/partials/wcbm-category-sliders-form.php:2278
+#: admin/partials/wcbm-category-sliders-form.php:2448
+#: admin/partials/wcbm-category-sliders-form.php:2784
+#: admin/partials/wcbm-category-sliders-form.php:2843
+#: admin/partials/wcbm-category-sliders-form.php:2899
+#: admin/partials/wcbm-category-sliders-form.php:3200
+#: admin/partials/wcbm-category-sliders-form.php:3259
+#: admin/partials/wcbm-category-sliders-form.php:3315
+#: admin/partials/wcbm-category-sliders-form.php:3841
+#: admin/partials/wcbm-category-sliders-form.php:3936
+#: admin/partials/wcbm-product-sliders-form.php:1339
+#: admin/partials/wcbm-product-sliders-form.php:1437
+#: admin/partials/wcbm-product-sliders-form.php:1807
+#: admin/partials/wcbm-product-sliders-form.php:1881
+#: admin/partials/wcbm-product-sliders-form.php:1976
+#: admin/partials/wcbm-product-sliders-form.php:2050
+msgid "Inset"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1144
+#: admin/partials/wcbm-category-sliders-form.php:1470
+#: admin/partials/wcbm-category-sliders-form.php:2279
+#: admin/partials/wcbm-category-sliders-form.php:2449
+#: admin/partials/wcbm-category-sliders-form.php:2785
+#: admin/partials/wcbm-category-sliders-form.php:2844
+#: admin/partials/wcbm-category-sliders-form.php:2900
+#: admin/partials/wcbm-category-sliders-form.php:3201
+#: admin/partials/wcbm-category-sliders-form.php:3260
+#: admin/partials/wcbm-category-sliders-form.php:3316
+#: admin/partials/wcbm-category-sliders-form.php:3842
+#: admin/partials/wcbm-category-sliders-form.php:3937
+#: admin/partials/wcbm-product-sliders-form.php:1340
+#: admin/partials/wcbm-product-sliders-form.php:1438
+#: admin/partials/wcbm-product-sliders-form.php:1808
+#: admin/partials/wcbm-product-sliders-form.php:1882
+#: admin/partials/wcbm-product-sliders-form.php:1977
+#: admin/partials/wcbm-product-sliders-form.php:2051
+msgid "Outset"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1145
+#: admin/partials/wcbm-category-sliders-form.php:1471
+#: admin/partials/wcbm-category-sliders-form.php:2280
+#: admin/partials/wcbm-category-sliders-form.php:2450
+#: admin/partials/wcbm-category-sliders-form.php:2786
+#: admin/partials/wcbm-category-sliders-form.php:3202
+#: admin/partials/wcbm-category-sliders-form.php:3843
+#: admin/partials/wcbm-category-sliders-form.php:3938
+#: admin/partials/wcbm-product-sliders-form.php:1341
+#: admin/partials/wcbm-product-sliders-form.php:1439
+msgid "Groove"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1146
+#: admin/partials/wcbm-category-sliders-form.php:1472
+#: admin/partials/wcbm-category-sliders-form.php:2281
+#: admin/partials/wcbm-category-sliders-form.php:2451
+#: admin/partials/wcbm-category-sliders-form.php:2787
+#: admin/partials/wcbm-category-sliders-form.php:3203
+#: admin/partials/wcbm-category-sliders-form.php:3844
+#: admin/partials/wcbm-category-sliders-form.php:3939
+#: admin/partials/wcbm-product-sliders-form.php:1342
+#: admin/partials/wcbm-product-sliders-form.php:1440
+msgid "Ridge"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1151
+#: admin/partials/wcbm-category-sliders-form.php:1477
+#: admin/partials/wcbm-category-sliders-form.php:2234
+#: admin/partials/wcbm-category-sliders-form.php:2286
+#: admin/partials/wcbm-category-sliders-form.php:2407
+#: admin/partials/wcbm-category-sliders-form.php:2456
+#: admin/partials/wcbm-category-sliders-form.php:2792
+#: admin/partials/wcbm-category-sliders-form.php:2848
+#: admin/partials/wcbm-category-sliders-form.php:2904
+#: admin/partials/wcbm-category-sliders-form.php:3208
+#: admin/partials/wcbm-category-sliders-form.php:3264
+#: admin/partials/wcbm-category-sliders-form.php:3320
+#: admin/partials/wcbm-category-sliders-form.php:3797
+#: admin/partials/wcbm-category-sliders-form.php:3849
+#: admin/partials/wcbm-category-sliders-form.php:3895
+#: admin/partials/wcbm-category-sliders-form.php:3944
+#: admin/partials/wcbm-category-sliders-form.php:4013
+#: admin/partials/wcbm-category-sliders-form.php:4066
+#: admin/partials/wcbm-product-sliders-form.php:1298
+#: admin/partials/wcbm-product-sliders-form.php:1347
+#: admin/partials/wcbm-product-sliders-form.php:1396
+#: admin/partials/wcbm-product-sliders-form.php:1445
+#: admin/partials/wcbm-product-sliders-form.php:1514
+#: admin/partials/wcbm-product-sliders-form.php:1567
+#: admin/partials/wcbm-product-sliders-form.php:1812
+#: admin/partials/wcbm-product-sliders-form.php:1886
+#: admin/partials/wcbm-product-sliders-form.php:1981
+#: admin/partials/wcbm-product-sliders-form.php:2055
+msgid "Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1155
+#: admin/partials/wcbm-category-sliders-form.php:1481
+#: admin/partials/wcbm-category-sliders-form.php:2238
+#: admin/partials/wcbm-category-sliders-form.php:2290
+#: admin/partials/wcbm-category-sliders-form.php:2411
+#: admin/partials/wcbm-category-sliders-form.php:2460
+#: admin/partials/wcbm-category-sliders-form.php:2796
+#: admin/partials/wcbm-category-sliders-form.php:2852
+#: admin/partials/wcbm-category-sliders-form.php:2908
+#: admin/partials/wcbm-category-sliders-form.php:3212
+#: admin/partials/wcbm-category-sliders-form.php:3268
+#: admin/partials/wcbm-category-sliders-form.php:3324
+#: admin/partials/wcbm-category-sliders-form.php:3801
+#: admin/partials/wcbm-category-sliders-form.php:3853
+#: admin/partials/wcbm-category-sliders-form.php:3899
+#: admin/partials/wcbm-category-sliders-form.php:3948
+#: admin/partials/wcbm-category-sliders-form.php:4021
+#: admin/partials/wcbm-category-sliders-form.php:4074
+#: admin/partials/wcbm-product-sliders-form.php:1302
+#: admin/partials/wcbm-product-sliders-form.php:1351
+#: admin/partials/wcbm-product-sliders-form.php:1400
+#: admin/partials/wcbm-product-sliders-form.php:1449
+#: admin/partials/wcbm-product-sliders-form.php:1522
+#: admin/partials/wcbm-product-sliders-form.php:1575
+#: admin/partials/wcbm-product-sliders-form.php:1816
+#: admin/partials/wcbm-product-sliders-form.php:1890
+#: admin/partials/wcbm-product-sliders-form.php:1985
+#: admin/partials/wcbm-product-sliders-form.php:2059
+msgid "Hover Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1163
+#: admin/partials/wcbm-category-sliders-form.php:1176
+#: admin/partials/wcbm-category-sliders-form.php:1489
+#: admin/partials/wcbm-category-sliders-form.php:1499
+#: admin/partials/wcbm-category-sliders-form.php:2242
+#: admin/partials/wcbm-category-sliders-form.php:2415
+#: admin/partials/wcbm-category-sliders-form.php:3805
+#: admin/partials/wcbm-category-sliders-form.php:3903
+#: admin/partials/wcbm-product-sliders-form.php:1306
+#: admin/partials/wcbm-product-sliders-form.php:1404
+msgid "Background"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1166
+#: admin/partials/wcbm-category-sliders-form.php:1492
+msgid "Set color for the category content background."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1180
+#: admin/partials/wcbm-category-sliders-form.php:1503
+#: admin/partials/wcbm-category-sliders-form.php:2246
+#: admin/partials/wcbm-category-sliders-form.php:2419
+#: admin/partials/wcbm-category-sliders-form.php:3809
+#: admin/partials/wcbm-category-sliders-form.php:3907
+#: admin/partials/wcbm-product-sliders-form.php:1310
+#: admin/partials/wcbm-product-sliders-form.php:1408
+msgid "Hover Background"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1188
+#: admin/partials/wcbm-category-sliders-form.php:1511
+msgid "Inner Padding"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1191
+#: admin/partials/wcbm-category-sliders-form.php:1514
+msgid "Set category content inner padding."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1235
+#: admin/partials/wcbm-category-sliders-form.php:1555
+msgid "Category Content Position"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1238
+#: admin/partials/wcbm-category-sliders-form.php:1558
+msgid "Select the position for the category content."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1252
+#: admin/partials/wcbm-category-sliders-form.php:1572
+msgid "Below Content"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1262
+#: admin/partials/wcbm-category-sliders-form.php:1582
+msgid "Above Content"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1269
+#: admin/partials/wcbm-category-sliders-form.php:1589
+msgid "Right Content"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1276
+#: admin/partials/wcbm-category-sliders-form.php:1596
+msgid "Left Content"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1283
+#: admin/partials/wcbm-category-sliders-form.php:1603
+msgid "Overlay Content"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1293
+#: admin/partials/wcbm-category-sliders-form.php:1613
+msgid "Above Content 🔒"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1300
+#: admin/partials/wcbm-category-sliders-form.php:1620
+msgid "Right Content 🔒"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1307
+#: admin/partials/wcbm-category-sliders-form.php:1627
+msgid "Left Content 🔒"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1314
+#: admin/partials/wcbm-category-sliders-form.php:1634
+msgid "Overlay Content 🔒"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1648
+msgid "Category Content Settings"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1677
+#: admin/partials/wcbm-category-sliders-form.php:1935
+msgid "Category Name"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1680
+#: admin/partials/wcbm-category-sliders-form.php:1938
+msgid "Show/Hide category name."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1696
+#: admin/partials/wcbm-category-sliders-form.php:1951
+msgid "Category Name Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1699
+#: admin/partials/wcbm-category-sliders-form.php:1954
+msgid "Set category name color."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1712
+#: admin/partials/wcbm-category-sliders-form.php:1964
+msgid "Category Name Margin"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1715
+#: admin/partials/wcbm-category-sliders-form.php:1967
+msgid "Set category name margin."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1759
+#: admin/partials/wcbm-category-sliders-form.php:2008
+msgid "Product Count"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1762
+#: admin/partials/wcbm-category-sliders-form.php:2011
+msgid "Show/Hide product count."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1778
+#: admin/partials/wcbm-category-sliders-form.php:2024
+msgid "Product Count Position"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1781
+#: admin/partials/wcbm-category-sliders-form.php:2027
+msgid "Set product count position."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1791
+#: admin/partials/wcbm-category-sliders-form.php:2034
+msgid "Beside category name"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1794
+#: admin/partials/wcbm-category-sliders-form.php:2037
+msgid "Under category name"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1801
+#: admin/partials/wcbm-category-sliders-form.php:2044
+msgid "Product Count Before"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1804
+#: admin/partials/wcbm-category-sliders-form.php:2047
+msgid "Set product count before text."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1817
+#: admin/partials/wcbm-category-sliders-form.php:2057
+msgid "Product Count After"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1820
+#: admin/partials/wcbm-category-sliders-form.php:2060
+msgid "Set product count after text."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1833
+#: admin/partials/wcbm-category-sliders-form.php:2070
+msgid "Product Count Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1836
+#: admin/partials/wcbm-category-sliders-form.php:2073
+msgid "Set product count color."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1849
+#: admin/partials/wcbm-category-sliders-form.php:2083
+msgid "Description"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1852
+#: admin/partials/wcbm-category-sliders-form.php:2086
+msgid "Show/Hide category description."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1868
+#: admin/partials/wcbm-category-sliders-form.php:2099
+msgid "Description Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1871
+#: admin/partials/wcbm-category-sliders-form.php:2102
+msgid "Set category description color."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1884
+#: admin/partials/wcbm-category-sliders-form.php:2112
+msgid "Description Margin"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:1887
+#: admin/partials/wcbm-category-sliders-form.php:2115
+msgid "Set category description margin."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2160
+msgid "Shop Now Button Settings"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2186
+#: admin/partials/wcbm-category-sliders-form.php:2368
+msgid "Shop Now Button"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2189
+#: admin/partials/wcbm-category-sliders-form.php:2371
+msgid "Show/Hide shop now button."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2205
+#: admin/partials/wcbm-category-sliders-form.php:2384
+msgid "Shop Now Button Label"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2208
+#: admin/partials/wcbm-category-sliders-form.php:2387
+msgid "Set shop now button label."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2221
+#: admin/partials/wcbm-category-sliders-form.php:2397
+msgid "Shop Now Button Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2224
+#: admin/partials/wcbm-category-sliders-form.php:2400
+msgid "Set shop now button color."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2254
+#: admin/partials/wcbm-category-sliders-form.php:2427
+msgid "Shop Now Button Border"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2257
+#: admin/partials/wcbm-category-sliders-form.php:2430
+msgid "Set border for the shop now button."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2298
+#: admin/partials/wcbm-category-sliders-form.php:2468
+msgid "Button Margin"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2301
+#: admin/partials/wcbm-category-sliders-form.php:2471
+msgid "Set shop now button margin."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2345
+#: admin/partials/wcbm-category-sliders-form.php:2512
+msgid "Link Target"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2348
+#: admin/partials/wcbm-category-sliders-form.php:2515
+msgid "Set shop now button link target."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2357
+#: admin/partials/wcbm-category-sliders-form.php:2521
+msgid "_self"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2358
+#: admin/partials/wcbm-category-sliders-form.php:2522
+msgid "_blank"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2585
+#: admin/partials/wcbm-category-sliders-form.php:3013
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2588
+#: admin/partials/wcbm-category-sliders-form.php:3016
+msgid "Show/Hide category thumbnail."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2604
+#: admin/partials/wcbm-category-sliders-form.php:3029
+msgid "Thumbnail Sizes"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2607
+#: admin/partials/wcbm-category-sliders-form.php:3032
+msgid "Set sizes for category thumbnail."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2616
+#: admin/partials/wcbm-category-sliders-form.php:3038
+msgid "Original uploaded image"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2617
+#: admin/partials/wcbm-category-sliders-form.php:3039
+msgid "Thumbnail - 150x150"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2618
+#: admin/partials/wcbm-category-sliders-form.php:3040
+msgid "Medium - 300x300"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2619
+#: admin/partials/wcbm-category-sliders-form.php:3041
+msgid "Medium Large - 786x786"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2620
+#: admin/partials/wcbm-category-sliders-form.php:3042
+msgid "Large - 1024x1024"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2629
+#: admin/partials/wcbm-category-sliders-form.php:2677
+#: admin/partials/wcbm-category-sliders-form.php:3051
+#: admin/partials/wcbm-category-sliders-form.php:3099
+msgid "Shape"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2632
+#: admin/partials/wcbm-category-sliders-form.php:2680
+#: admin/partials/wcbm-category-sliders-form.php:3054
+#: admin/partials/wcbm-category-sliders-form.php:3102
+msgid "Select shapes for category thumbnail."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2646
+#: admin/partials/wcbm-category-sliders-form.php:2691
+#: admin/partials/wcbm-category-sliders-form.php:3068
+#: admin/partials/wcbm-category-sliders-form.php:3113
+msgid "Square"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2653
+#: admin/partials/wcbm-category-sliders-form.php:2698
+#: admin/partials/wcbm-category-sliders-form.php:3075
+#: admin/partials/wcbm-category-sliders-form.php:3120
+msgid "Rounded"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2660
+#: admin/partials/wcbm-category-sliders-form.php:2705
+#: admin/partials/wcbm-category-sliders-form.php:3082
+#: admin/partials/wcbm-category-sliders-form.php:3127
+msgid "Circle"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2667
+#: admin/partials/wcbm-category-sliders-form.php:2712
+#: admin/partials/wcbm-category-sliders-form.php:3089
+#: admin/partials/wcbm-category-sliders-form.php:3134
+msgid "Custom"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2722
+#: admin/partials/wcbm-category-sliders-form.php:3144
+msgid "Custom Border Radius"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2725
+#: admin/partials/wcbm-category-sliders-form.php:3147
+msgid "Set custom border radius."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2733
+#: admin/partials/wcbm-category-sliders-form.php:3155
+msgid " px"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2740
+msgid "Thumbnail Border"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2743
+#: admin/partials/wcbm-category-sliders-form.php:3165
+msgid "Check to enable border for thumbnail."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2753
+#: admin/partials/wcbm-category-sliders-form.php:3172
+msgid "Border"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2760
+#: admin/partials/wcbm-category-sliders-form.php:3179
+msgid "Set Border"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2763
+#: admin/partials/wcbm-category-sliders-form.php:3182
+msgid "Set border for category thumbnail."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2807
+#: admin/partials/wcbm-category-sliders-form.php:2863
+#: admin/partials/wcbm-category-sliders-form.php:3223
+#: admin/partials/wcbm-category-sliders-form.php:3279
+#: admin/partials/wcbm-product-sliders-form.php:1771
+#: admin/partials/wcbm-product-sliders-form.php:1845
+#: admin/partials/wcbm-product-sliders-form.php:1940
+#: admin/partials/wcbm-product-sliders-form.php:2014
+msgid "Box-shadow"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2810
+#: admin/partials/wcbm-category-sliders-form.php:2866
+#: admin/partials/wcbm-category-sliders-form.php:3226
+#: admin/partials/wcbm-category-sliders-form.php:3282
+#: admin/partials/wcbm-product-sliders-form.php:1774
+#: admin/partials/wcbm-product-sliders-form.php:1848
+#: admin/partials/wcbm-product-sliders-form.php:1943
+#: admin/partials/wcbm-product-sliders-form.php:2017
+msgid "Check to enable border and box-shadow for thumbnail."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2919
+#: admin/partials/wcbm-category-sliders-form.php:3335
+msgid "Margin"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2922
+#: admin/partials/wcbm-category-sliders-form.php:3338
+msgid "Set margin for category thumbnail."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2966
+#: admin/partials/wcbm-category-sliders-form.php:3379
+#: admin/partials/wcbm-product-sliders-form.php:1824
+#: admin/partials/wcbm-product-sliders-form.php:1898
+#: admin/partials/wcbm-product-sliders-form.php:1993
+#: admin/partials/wcbm-product-sliders-form.php:2067
+msgid "Image Mode"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2969
+#: admin/partials/wcbm-category-sliders-form.php:3382
+msgid "Set a mode for category thumbnail or image."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2978
+#: admin/partials/wcbm-category-sliders-form.php:3388
+#: admin/partials/wcbm-product-sliders-form.php:1833
+#: admin/partials/wcbm-product-sliders-form.php:1908
+#: admin/partials/wcbm-product-sliders-form.php:2002
+#: admin/partials/wcbm-product-sliders-form.php:2077
+msgid "Normal"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2979
+#: admin/partials/wcbm-category-sliders-form.php:3389
+#: admin/partials/wcbm-product-sliders-form.php:1834
+#: admin/partials/wcbm-product-sliders-form.php:2003
+msgid "Grayscale on Hover"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2980
+#: admin/partials/wcbm-category-sliders-form.php:3390
+#: admin/partials/wcbm-product-sliders-form.php:1835
+#: admin/partials/wcbm-product-sliders-form.php:2004
+msgid "Grayscale and normal on hover"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2981
+#: admin/partials/wcbm-category-sliders-form.php:3391
+#: admin/partials/wcbm-product-sliders-form.php:1836
+#: admin/partials/wcbm-product-sliders-form.php:2005
+msgid "Always grayscale"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2989
+#: admin/partials/wcbm-category-sliders-form.php:3397
+#: admin/partials/wcbm-product-sliders-form.php:1751
+#: admin/partials/wcbm-product-sliders-form.php:1920
+msgid "Zoom"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:2992
+#: admin/partials/wcbm-category-sliders-form.php:3400
+#: admin/partials/wcbm-product-sliders-form.php:1754
+msgid "Set a zoom effect for thumbnail."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3002
+#: admin/partials/wcbm-category-sliders-form.php:3410
+#: admin/partials/wcbm-product-sliders-form.php:1761
+#: admin/partials/wcbm-product-sliders-form.php:1930
+msgid "Zoom In"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3003
+#: admin/partials/wcbm-category-sliders-form.php:3411
+#: admin/partials/wcbm-product-sliders-form.php:1762
+#: admin/partials/wcbm-product-sliders-form.php:1931
+msgid "Zoom Out"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3162
+msgid " Thumbnail Border"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3443
+#: admin/partials/wcbm-category-sliders-form.php:3600
+#: admin/partials/wcbm-product-sliders-form.php:968
+#: admin/partials/wcbm-product-sliders-form.php:1107
+msgid "AutoPlay"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3446
+#: admin/partials/wcbm-category-sliders-form.php:3603
+#: admin/partials/wcbm-product-sliders-form.php:971
+#: admin/partials/wcbm-product-sliders-form.php:1110
+#: admin/partials/wcbm-product-sliders-form.php:1923
+msgid "Enable/Disable auto play."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3462
+#: admin/partials/wcbm-category-sliders-form.php:3616
+#: admin/partials/wcbm-product-sliders-form.php:984
+#: admin/partials/wcbm-product-sliders-form.php:1123
+msgid "AutoPlay Speed (ms)"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3465
+#: admin/partials/wcbm-category-sliders-form.php:3619
+#: admin/partials/wcbm-product-sliders-form.php:987
+#: admin/partials/wcbm-product-sliders-form.php:1126
+msgid "Set auto play speed. Default value is 2000 milliseconds."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3478
+#: admin/partials/wcbm-category-sliders-form.php:3629
+#: admin/partials/wcbm-product-sliders-form.php:997
+#: admin/partials/wcbm-product-sliders-form.php:1136
+msgid "Scroll Speed (ms)"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3481
+#: admin/partials/wcbm-category-sliders-form.php:3632
+#: admin/partials/wcbm-product-sliders-form.php:1000
+#: admin/partials/wcbm-product-sliders-form.php:1139
+msgid "Set pagination/slide scroll speed. Default value is 600 milliseconds."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3494
+#: admin/partials/wcbm-category-sliders-form.php:3642
+#: admin/partials/wcbm-product-sliders-form.php:1010
+#: admin/partials/wcbm-product-sliders-form.php:1149
+msgid "Pause on Hover"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3497
+#: admin/partials/wcbm-category-sliders-form.php:3645
+#: admin/partials/wcbm-product-sliders-form.php:1013
+#: admin/partials/wcbm-product-sliders-form.php:1152
+msgid "Enable/Disable slider pause on hover."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3513
+#: admin/partials/wcbm-category-sliders-form.php:3658
+#: admin/partials/wcbm-product-sliders-form.php:1026
+#: admin/partials/wcbm-product-sliders-form.php:1165
+msgid "Infinite Loop"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3516
+#: admin/partials/wcbm-category-sliders-form.php:3661
+#: admin/partials/wcbm-product-sliders-form.php:1029
+#: admin/partials/wcbm-product-sliders-form.php:1168
+msgid "Enable/Disable infinite loop mode."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3532
+#: admin/partials/wcbm-category-sliders-form.php:3674
+#: admin/partials/wcbm-product-sliders-form.php:1042
+#: admin/partials/wcbm-product-sliders-form.php:1181
+msgid "Auto Height"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3535
+#: admin/partials/wcbm-category-sliders-form.php:3677
+#: admin/partials/wcbm-product-sliders-form.php:1045
+#: admin/partials/wcbm-product-sliders-form.php:1184
+msgid "Enable/Disable auto height."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3551
+#: admin/partials/wcbm-category-sliders-form.php:3690
+#: admin/partials/wcbm-product-sliders-form.php:1058
+#: admin/partials/wcbm-product-sliders-form.php:1197
+msgid "Slide To Scroll"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3554
+#: admin/partials/wcbm-category-sliders-form.php:3693
+#: admin/partials/wcbm-product-sliders-form.php:1061
+#: admin/partials/wcbm-product-sliders-form.php:1200
+msgid "Set slide to scroll in different devices."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3739
+#: admin/partials/wcbm-product-sliders-form.php:1246
+msgid "Navigation Settings"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3758
+#: admin/partials/wcbm-category-sliders-form.php:3865
+#: admin/partials/wcbm-product-sliders-form.php:1265
+#: admin/partials/wcbm-product-sliders-form.php:1363
+msgid "Navigation"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3761
+#: admin/partials/wcbm-category-sliders-form.php:3868
+#: admin/partials/wcbm-product-sliders-form.php:1268
+#: admin/partials/wcbm-product-sliders-form.php:1366
+msgid "Show/Hide slider navigation."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3771
+#: admin/partials/wcbm-category-sliders-form.php:3875
+#: admin/partials/wcbm-category-sliders-form.php:3987
+#: admin/partials/wcbm-category-sliders-form.php:4043
+#: admin/partials/wcbm-product-sliders-form.php:1275
+#: admin/partials/wcbm-product-sliders-form.php:1373
+#: admin/partials/wcbm-product-sliders-form.php:1488
+#: admin/partials/wcbm-product-sliders-form.php:1544
+msgid "Show"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3774
+#: admin/partials/wcbm-category-sliders-form.php:3878
+#: admin/partials/wcbm-category-sliders-form.php:3990
+#: admin/partials/wcbm-category-sliders-form.php:4046
+#: admin/partials/wcbm-product-sliders-form.php:1278
+#: admin/partials/wcbm-product-sliders-form.php:1376
+#: admin/partials/wcbm-product-sliders-form.php:1491
+#: admin/partials/wcbm-product-sliders-form.php:1547
+msgid "Hide"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3777
+#: admin/partials/wcbm-category-sliders-form.php:3993
+#: admin/partials/wcbm-category-sliders-form.php:4049
+#: admin/partials/wcbm-product-sliders-form.php:1281
+#: admin/partials/wcbm-product-sliders-form.php:1379
+#: admin/partials/wcbm-product-sliders-form.php:1494
+#: admin/partials/wcbm-product-sliders-form.php:1550
+msgid "Hide on Mobile"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3784
+#: admin/partials/wcbm-category-sliders-form.php:3885
+#: admin/partials/wcbm-product-sliders-form.php:1288
+#: admin/partials/wcbm-product-sliders-form.php:1386
+msgid "Navigation Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3787
+#: admin/partials/wcbm-category-sliders-form.php:3888
+#: admin/partials/wcbm-product-sliders-form.php:1291
+#: admin/partials/wcbm-product-sliders-form.php:1389
+msgid "Set color for the slider navigation."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3817
+#: admin/partials/wcbm-category-sliders-form.php:3915
+#: admin/partials/wcbm-product-sliders-form.php:1318
+#: admin/partials/wcbm-product-sliders-form.php:1416
+msgid "Navigation Border"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3820
+#: admin/partials/wcbm-category-sliders-form.php:3918
+#: admin/partials/wcbm-product-sliders-form.php:1321
+#: admin/partials/wcbm-product-sliders-form.php:1419
+msgid "Set border for the slider navigation."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3960
+#: admin/partials/wcbm-product-sliders-form.php:1461
+msgid "Pagination Settings"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3974
+#: admin/partials/wcbm-category-sliders-form.php:4033
+#: admin/partials/wcbm-category-sliders-form.php:4154
+#: admin/partials/wcbm-product-sliders-form.php:1475
+#: admin/partials/wcbm-product-sliders-form.php:1534
+msgid "Pagination"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:3977
+#: admin/partials/wcbm-category-sliders-form.php:4036
+#: admin/partials/wcbm-category-sliders-form.php:4157
+#: admin/partials/wcbm-product-sliders-form.php:1478
+#: admin/partials/wcbm-product-sliders-form.php:1537
+msgid "Show/Hide slider pagination."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4000
+#: admin/partials/wcbm-category-sliders-form.php:4056
+#: admin/partials/wcbm-product-sliders-form.php:1501
+#: admin/partials/wcbm-product-sliders-form.php:1557
+msgid "Pagination Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4003
+#: admin/partials/wcbm-category-sliders-form.php:4059
+#: admin/partials/wcbm-product-sliders-form.php:1504
+#: admin/partials/wcbm-product-sliders-form.php:1560
+msgid "Set color for the slider pagination."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4017
+#: admin/partials/wcbm-category-sliders-form.php:4070
+#: admin/partials/wcbm-product-sliders-form.php:1518
+#: admin/partials/wcbm-product-sliders-form.php:1571
+msgid "Active Color"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4086
+#: admin/partials/wcbm-product-sliders-form.php:1587
+msgid "Miscellaneous"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4099
+#: admin/partials/wcbm-product-sliders-form.php:1601
+#: admin/partials/wcbm-product-sliders-form.php:1656
+msgid "Touch Swipe"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4102
+#: admin/partials/wcbm-product-sliders-form.php:1604
+#: admin/partials/wcbm-product-sliders-form.php:1659
+msgid "Enable/Disable touch swipe."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4116
+#: admin/partials/wcbm-category-sliders-form.php:4170
+#: admin/partials/wcbm-product-sliders-form.php:1618
+#: admin/partials/wcbm-product-sliders-form.php:1673
+msgid "Mousewheel Control"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4119
+#: admin/partials/wcbm-category-sliders-form.php:4173
+#: admin/partials/wcbm-product-sliders-form.php:1621
+#: admin/partials/wcbm-product-sliders-form.php:1676
+msgid "Enable/Disable mousewheel control."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4133
+#: admin/partials/wcbm-category-sliders-form.php:4187
+#: admin/partials/wcbm-product-sliders-form.php:1635
+#: admin/partials/wcbm-product-sliders-form.php:1690
+msgid "Mouse Draggable"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4136
+#: admin/partials/wcbm-category-sliders-form.php:4190
+#: admin/partials/wcbm-product-sliders-form.php:1638
+#: admin/partials/wcbm-product-sliders-form.php:1693
+msgid "Enable/Disable mouse draggable."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4297
+#: admin/partials/wcbm-category-sliders-form.php:4506
+#: admin/partials/wcbm-category-sliders-form.php:4720
+msgid "Load Category Title Font"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4300
+#: admin/partials/wcbm-category-sliders-form.php:4509
+#: admin/partials/wcbm-category-sliders-form.php:4723
+msgid "Enable/Disable Category Title Font."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4316
+#: admin/partials/wcbm-category-sliders-form.php:4525
+#: admin/partials/wcbm-category-sliders-form.php:4736
+msgid "Category Title Font"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4319
+#: admin/partials/wcbm-category-sliders-form.php:4422
+#: admin/partials/wcbm-category-sliders-form.php:4528
+#: admin/partials/wcbm-category-sliders-form.php:4629
+#: admin/partials/wcbm-category-sliders-form.php:4739
+#: admin/partials/wcbm-category-sliders-form.php:4809
+msgid "Set Category Title Fonts"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4329
+#: admin/partials/wcbm-category-sliders-form.php:4432
+#: admin/partials/wcbm-category-sliders-form.php:4538
+#: admin/partials/wcbm-category-sliders-form.php:4639
+#: admin/partials/wcbm-category-sliders-form.php:4746
+#: admin/partials/wcbm-category-sliders-form.php:4816
+#: admin/partials/wcbm-product-sliders-form.php:2218
+#: admin/partials/wcbm-product-sliders-form.php:2320
+#: admin/partials/wcbm-product-sliders-form.php:2422
+#: admin/partials/wcbm-product-sliders-form.php:2527
+#: admin/partials/wcbm-product-sliders-form.php:2629
+#: admin/partials/wcbm-product-sliders-form.php:2731
+#: admin/partials/wcbm-product-sliders-form.php:2838
+#: admin/partials/wcbm-product-sliders-form.php:2909
+#: admin/partials/wcbm-product-sliders-form.php:2983
+msgid "Font Family"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4332
+#: admin/partials/wcbm-category-sliders-form.php:4434
+#: admin/partials/wcbm-category-sliders-form.php:4540
+#: admin/partials/wcbm-category-sliders-form.php:4641
+#: admin/partials/wcbm-category-sliders-form.php:4748
+#: admin/partials/wcbm-category-sliders-form.php:4818
+#: admin/partials/wcbm-product-sliders-form.php:2220
+#: admin/partials/wcbm-product-sliders-form.php:2322
+#: admin/partials/wcbm-product-sliders-form.php:2424
+#: admin/partials/wcbm-product-sliders-form.php:2529
+#: admin/partials/wcbm-product-sliders-form.php:2631
+#: admin/partials/wcbm-product-sliders-form.php:2733
+#: admin/partials/wcbm-product-sliders-form.php:2840
+#: admin/partials/wcbm-product-sliders-form.php:2911
+#: admin/partials/wcbm-product-sliders-form.php:2985
+msgid "Select Font Family"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4343
+#: admin/partials/wcbm-category-sliders-form.php:4445
+#: admin/partials/wcbm-category-sliders-form.php:4551
+#: admin/partials/wcbm-category-sliders-form.php:4652
+#: admin/partials/wcbm-category-sliders-form.php:4752
+#: admin/partials/wcbm-category-sliders-form.php:4822
+#: admin/partials/wcbm-product-sliders-form.php:2231
+#: admin/partials/wcbm-product-sliders-form.php:2333
+#: admin/partials/wcbm-product-sliders-form.php:2435
+#: admin/partials/wcbm-product-sliders-form.php:2540
+#: admin/partials/wcbm-product-sliders-form.php:2642
+#: admin/partials/wcbm-product-sliders-form.php:2744
+#: admin/partials/wcbm-product-sliders-form.php:2844
+#: admin/partials/wcbm-product-sliders-form.php:2915
+#: admin/partials/wcbm-product-sliders-form.php:2989
+msgid "Font Weight"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4345
+#: admin/partials/wcbm-category-sliders-form.php:4447
+#: admin/partials/wcbm-category-sliders-form.php:4553
+#: admin/partials/wcbm-category-sliders-form.php:4654
+#: admin/partials/wcbm-category-sliders-form.php:4754
+#: admin/partials/wcbm-category-sliders-form.php:4824
+#: admin/partials/wcbm-product-sliders-form.php:2233
+#: admin/partials/wcbm-product-sliders-form.php:2335
+#: admin/partials/wcbm-product-sliders-form.php:2437
+#: admin/partials/wcbm-product-sliders-form.php:2542
+#: admin/partials/wcbm-product-sliders-form.php:2644
+#: admin/partials/wcbm-product-sliders-form.php:2746
+#: admin/partials/wcbm-product-sliders-form.php:2846
+#: admin/partials/wcbm-product-sliders-form.php:2917
+#: admin/partials/wcbm-product-sliders-form.php:2991
+msgid "Select Font Weight"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4355
+#: admin/partials/wcbm-category-sliders-form.php:4457
+#: admin/partials/wcbm-category-sliders-form.php:4563
+#: admin/partials/wcbm-category-sliders-form.php:4664
+#: admin/partials/wcbm-product-sliders-form.php:2243
+#: admin/partials/wcbm-product-sliders-form.php:2345
+#: admin/partials/wcbm-product-sliders-form.php:2447
+#: admin/partials/wcbm-product-sliders-form.php:2552
+#: admin/partials/wcbm-product-sliders-form.php:2654
+#: admin/partials/wcbm-product-sliders-form.php:2756
+msgid "lighter"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4356
+#: admin/partials/wcbm-category-sliders-form.php:4458
+#: admin/partials/wcbm-category-sliders-form.php:4564
+#: admin/partials/wcbm-category-sliders-form.php:4665
+#: admin/partials/wcbm-product-sliders-form.php:2244
+#: admin/partials/wcbm-product-sliders-form.php:2346
+#: admin/partials/wcbm-product-sliders-form.php:2448
+#: admin/partials/wcbm-product-sliders-form.php:2553
+#: admin/partials/wcbm-product-sliders-form.php:2655
+#: admin/partials/wcbm-product-sliders-form.php:2757
+msgid "bold"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4357
+#: admin/partials/wcbm-category-sliders-form.php:4459
+#: admin/partials/wcbm-category-sliders-form.php:4565
+#: admin/partials/wcbm-category-sliders-form.php:4666
+#: admin/partials/wcbm-product-sliders-form.php:2245
+#: admin/partials/wcbm-product-sliders-form.php:2347
+#: admin/partials/wcbm-product-sliders-form.php:2449
+#: admin/partials/wcbm-product-sliders-form.php:2554
+#: admin/partials/wcbm-product-sliders-form.php:2656
+#: admin/partials/wcbm-product-sliders-form.php:2758
+msgid "bolder"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4363
+#: admin/partials/wcbm-category-sliders-form.php:4465
+#: admin/partials/wcbm-category-sliders-form.php:4571
+#: admin/partials/wcbm-category-sliders-form.php:4672
+#: admin/partials/wcbm-category-sliders-form.php:4760
+#: admin/partials/wcbm-category-sliders-form.php:4830
+#: admin/partials/wcbm-product-sliders-form.php:2251
+#: admin/partials/wcbm-product-sliders-form.php:2353
+#: admin/partials/wcbm-product-sliders-form.php:2455
+#: admin/partials/wcbm-product-sliders-form.php:2560
+#: admin/partials/wcbm-product-sliders-form.php:2662
+#: admin/partials/wcbm-product-sliders-form.php:2764
+#: admin/partials/wcbm-product-sliders-form.php:2852
+#: admin/partials/wcbm-product-sliders-form.php:2923
+#: admin/partials/wcbm-product-sliders-form.php:2997
+msgid "Text Align"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4365
+#: admin/partials/wcbm-category-sliders-form.php:4467
+#: admin/partials/wcbm-category-sliders-form.php:4573
+#: admin/partials/wcbm-category-sliders-form.php:4674
+#: admin/partials/wcbm-category-sliders-form.php:4762
+#: admin/partials/wcbm-category-sliders-form.php:4832
+#: admin/partials/wcbm-product-sliders-form.php:2253
+#: admin/partials/wcbm-product-sliders-form.php:2355
+#: admin/partials/wcbm-product-sliders-form.php:2457
+#: admin/partials/wcbm-product-sliders-form.php:2562
+#: admin/partials/wcbm-product-sliders-form.php:2664
+#: admin/partials/wcbm-product-sliders-form.php:2766
+#: admin/partials/wcbm-product-sliders-form.php:2854
+#: admin/partials/wcbm-product-sliders-form.php:2925
+#: admin/partials/wcbm-product-sliders-form.php:2999
+msgid "Select Text Align"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4366
+#: admin/partials/wcbm-category-sliders-form.php:4468
+#: admin/partials/wcbm-category-sliders-form.php:4574
+#: admin/partials/wcbm-category-sliders-form.php:4675
+#: admin/partials/wcbm-product-sliders-form.php:2254
+#: admin/partials/wcbm-product-sliders-form.php:2356
+#: admin/partials/wcbm-product-sliders-form.php:2458
+#: admin/partials/wcbm-product-sliders-form.php:2563
+#: admin/partials/wcbm-product-sliders-form.php:2665
+#: admin/partials/wcbm-product-sliders-form.php:2767
+msgid "Left"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4367
+#: admin/partials/wcbm-category-sliders-form.php:4469
+#: admin/partials/wcbm-category-sliders-form.php:4575
+#: admin/partials/wcbm-category-sliders-form.php:4676
+#: admin/partials/wcbm-product-sliders-form.php:2255
+#: admin/partials/wcbm-product-sliders-form.php:2357
+#: admin/partials/wcbm-product-sliders-form.php:2459
+#: admin/partials/wcbm-product-sliders-form.php:2564
+#: admin/partials/wcbm-product-sliders-form.php:2666
+#: admin/partials/wcbm-product-sliders-form.php:2768
+msgid "Center"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4368
+#: admin/partials/wcbm-category-sliders-form.php:4470
+#: admin/partials/wcbm-category-sliders-form.php:4576
+#: admin/partials/wcbm-category-sliders-form.php:4677
+#: admin/partials/wcbm-product-sliders-form.php:2256
+#: admin/partials/wcbm-product-sliders-form.php:2358
+#: admin/partials/wcbm-product-sliders-form.php:2460
+#: admin/partials/wcbm-product-sliders-form.php:2565
+#: admin/partials/wcbm-product-sliders-form.php:2667
+#: admin/partials/wcbm-product-sliders-form.php:2769
+msgid "Right"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4372
+#: admin/partials/wcbm-category-sliders-form.php:4474
+#: admin/partials/wcbm-category-sliders-form.php:4580
+#: admin/partials/wcbm-category-sliders-form.php:4681
+#: admin/partials/wcbm-category-sliders-form.php:4766
+#: admin/partials/wcbm-category-sliders-form.php:4836
+#: admin/partials/wcbm-product-sliders-form.php:2260
+#: admin/partials/wcbm-product-sliders-form.php:2362
+#: admin/partials/wcbm-product-sliders-form.php:2464
+#: admin/partials/wcbm-product-sliders-form.php:2569
+#: admin/partials/wcbm-product-sliders-form.php:2671
+#: admin/partials/wcbm-product-sliders-form.php:2773
+#: admin/partials/wcbm-product-sliders-form.php:2858
+#: admin/partials/wcbm-product-sliders-form.php:2929
+#: admin/partials/wcbm-product-sliders-form.php:3003
+msgid "Text Transform"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4374
+#: admin/partials/wcbm-category-sliders-form.php:4476
+#: admin/partials/wcbm-category-sliders-form.php:4582
+#: admin/partials/wcbm-category-sliders-form.php:4683
+#: admin/partials/wcbm-category-sliders-form.php:4768
+#: admin/partials/wcbm-category-sliders-form.php:4838
+#: admin/partials/wcbm-product-sliders-form.php:2262
+#: admin/partials/wcbm-product-sliders-form.php:2364
+#: admin/partials/wcbm-product-sliders-form.php:2466
+#: admin/partials/wcbm-product-sliders-form.php:2571
+#: admin/partials/wcbm-product-sliders-form.php:2673
+#: admin/partials/wcbm-product-sliders-form.php:2775
+#: admin/partials/wcbm-product-sliders-form.php:2860
+#: admin/partials/wcbm-product-sliders-form.php:2931
+#: admin/partials/wcbm-product-sliders-form.php:3005
+msgid "Select Text Transform"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4375
+#: admin/partials/wcbm-category-sliders-form.php:4477
+#: admin/partials/wcbm-category-sliders-form.php:4583
+#: admin/partials/wcbm-category-sliders-form.php:4684
+#: admin/partials/wcbm-product-sliders-form.php:2263
+#: admin/partials/wcbm-product-sliders-form.php:2365
+#: admin/partials/wcbm-product-sliders-form.php:2467
+#: admin/partials/wcbm-product-sliders-form.php:2572
+#: admin/partials/wcbm-product-sliders-form.php:2674
+#: admin/partials/wcbm-product-sliders-form.php:2776
+msgid "Capitalize"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4376
+#: admin/partials/wcbm-category-sliders-form.php:4478
+#: admin/partials/wcbm-category-sliders-form.php:4584
+#: admin/partials/wcbm-category-sliders-form.php:4685
+#: admin/partials/wcbm-product-sliders-form.php:2264
+#: admin/partials/wcbm-product-sliders-form.php:2366
+#: admin/partials/wcbm-product-sliders-form.php:2468
+#: admin/partials/wcbm-product-sliders-form.php:2573
+#: admin/partials/wcbm-product-sliders-form.php:2675
+#: admin/partials/wcbm-product-sliders-form.php:2777
+msgid "Lowercase"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4377
+#: admin/partials/wcbm-category-sliders-form.php:4479
+#: admin/partials/wcbm-category-sliders-form.php:4585
+#: admin/partials/wcbm-category-sliders-form.php:4686
+#: admin/partials/wcbm-product-sliders-form.php:2265
+#: admin/partials/wcbm-product-sliders-form.php:2367
+#: admin/partials/wcbm-product-sliders-form.php:2469
+#: admin/partials/wcbm-product-sliders-form.php:2574
+#: admin/partials/wcbm-product-sliders-form.php:2676
+#: admin/partials/wcbm-product-sliders-form.php:2778
+msgid "Uppercase"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4383
+#: admin/partials/wcbm-category-sliders-form.php:4485
+#: admin/partials/wcbm-category-sliders-form.php:4591
+#: admin/partials/wcbm-category-sliders-form.php:4692
+#: admin/partials/wcbm-category-sliders-form.php:4774
+#: admin/partials/wcbm-category-sliders-form.php:4844
+#: admin/partials/wcbm-product-sliders-form.php:2271
+#: admin/partials/wcbm-product-sliders-form.php:2373
+#: admin/partials/wcbm-product-sliders-form.php:2475
+#: admin/partials/wcbm-product-sliders-form.php:2580
+#: admin/partials/wcbm-product-sliders-form.php:2682
+#: admin/partials/wcbm-product-sliders-form.php:2784
+#: admin/partials/wcbm-product-sliders-form.php:2866
+#: admin/partials/wcbm-product-sliders-form.php:2937
+#: admin/partials/wcbm-product-sliders-form.php:3011
+msgid "Font Size"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4387
+#: admin/partials/wcbm-category-sliders-form.php:4489
+#: admin/partials/wcbm-category-sliders-form.php:4595
+#: admin/partials/wcbm-category-sliders-form.php:4696
+#: admin/partials/wcbm-category-sliders-form.php:4778
+#: admin/partials/wcbm-category-sliders-form.php:4848
+#: admin/partials/wcbm-product-sliders-form.php:2275
+#: admin/partials/wcbm-product-sliders-form.php:2377
+#: admin/partials/wcbm-product-sliders-form.php:2479
+#: admin/partials/wcbm-product-sliders-form.php:2584
+#: admin/partials/wcbm-product-sliders-form.php:2686
+#: admin/partials/wcbm-product-sliders-form.php:2788
+#: admin/partials/wcbm-product-sliders-form.php:2870
+#: admin/partials/wcbm-product-sliders-form.php:2941
+#: admin/partials/wcbm-product-sliders-form.php:3015
+msgid "Line Height"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4391
+#: admin/partials/wcbm-category-sliders-form.php:4493
+#: admin/partials/wcbm-category-sliders-form.php:4599
+#: admin/partials/wcbm-category-sliders-form.php:4700
+#: admin/partials/wcbm-category-sliders-form.php:4782
+#: admin/partials/wcbm-category-sliders-form.php:4852
+#: admin/partials/wcbm-product-sliders-form.php:2279
+#: admin/partials/wcbm-product-sliders-form.php:2381
+#: admin/partials/wcbm-product-sliders-form.php:2483
+#: admin/partials/wcbm-product-sliders-form.php:2588
+#: admin/partials/wcbm-product-sliders-form.php:2690
+#: admin/partials/wcbm-product-sliders-form.php:2792
+#: admin/partials/wcbm-product-sliders-form.php:2874
+#: admin/partials/wcbm-product-sliders-form.php:2945
+#: admin/partials/wcbm-product-sliders-form.php:3019
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4400
+#: admin/partials/wcbm-category-sliders-form.php:4607
+#: admin/partials/wcbm-category-sliders-form.php:4790
+msgid "Load Shop Now Button Font"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4403
+#: admin/partials/wcbm-category-sliders-form.php:4610
+#: admin/partials/wcbm-category-sliders-form.php:4793
+msgid "Enable/Disable Shop Now Button Font."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4419
+#: admin/partials/wcbm-category-sliders-form.php:4626
+#: admin/partials/wcbm-category-sliders-form.php:4806
+msgid "Shop Now Button Font"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4868
+#: admin/partials/wcbm-product-sliders-form.php:3035
+msgid "Save Slider"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4877
+#: admin/partials/wcbm-product-sliders-form.php:3044
+msgid "Live Preview"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4878
+#: admin/partials/wcbm-product-sliders-form.php:3045
+msgid "Save the slider and apply the same settings to your slider."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4887
+#: admin/partials/wcbm-product-sliders-form.php:3054
+msgid "Copy Shortcode"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4891
+#: admin/partials/wcbm-product-sliders-form.php:3058
+msgid "Page or Post Include"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4892
+#: admin/partials/wcbm-product-sliders-form.php:3059
+msgid "Copy and paste this shortcode into your posts or pages:"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4900
+#: admin/partials/wcbm-product-sliders-form.php:3067
+msgid "Template Include"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-form.php:4901
+#: admin/partials/wcbm-product-sliders-form.php:3068
+msgid "Paste the PHP code into your template file:"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-page.php:31
+msgid "Category Sliders"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-page.php:654
+msgid "Error saving category slider."
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-page.php:739
+msgid "All Category Sliders"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-page.php:743
+#: admin/partials/wcbm-product-sliders-page.php:566
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-page.php:748
+#: admin/partials/wcbm-product-sliders-page.php:571
+msgid "Search results for: <strong>%s</strong>"
+msgstr ""
+
+#: admin/partials/wcbm-category-sliders-page.php:756
+#: admin/partials/wcbm-product-sliders-page.php:579
+msgid "Search"
+msgstr ""
+
+#: admin/partials/wcbm-get-started-page.php:15
+msgid "How to Get Started"
+msgstr ""
+
+#: admin/partials/wcbm-get-started-page.php:16
+msgid "Welcome to Banner Management Plugin"
+msgstr ""
+
+#: admin/partials/wcbm-get-started-page.php:17
+msgid ""
+"Thank you for choosing our top-rated WooCommerce Banner Management plugin. "
+"Our user-friendly interface makes setting up different banners and sliders "
+"easy for effective promotions!"
+msgstr ""
+
+#: admin/partials/wcbm-get-started-page.php:21
+msgid ""
+"To help you get started, watch the quick tour video on the right. For more "
+"help, explore our help documents or visit our %s for detailed video "
+"tutorials."
+msgstr ""
+
+#: admin/partials/wcbm-get-started-page.php:22
+msgid "YouTube channel"
+msgstr ""
+
+#: admin/partials/wcbm-get-started-page.php:27
+msgid "Manage Store Banners"
+msgstr ""
+
+#: admin/partials/wcbm-get-started-page.php:28
+msgid "Read the Setup Guide"
+msgstr ""
+
+#: admin/partials/wcbm-get-started-page.php:32
+msgid "Plugin Tour"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:140
+#: admin/partials/wcbm-product-sliders-form.php:467
+msgid "Filter Products"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:143
+#: admin/partials/wcbm-product-sliders-form.php:470
+msgid "Select an option to filter the products."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:150
+#: admin/partials/wcbm-product-sliders-form.php:477
+msgid "Specific Product(s)"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:151
+#: admin/partials/wcbm-product-sliders-form.php:478
+msgid "Featured Product(s)"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:157
+#: admin/partials/wcbm-product-sliders-form.php:484
+msgid "Exclude Product(s)"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:161
+#: admin/partials/wcbm-product-sliders-form.php:167
+#: admin/partials/wcbm-product-sliders-form.php:488
+#: admin/partials/wcbm-product-sliders-form.php:494
+msgid "Specific Category(s) 🔒"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:162
+#: admin/partials/wcbm-product-sliders-form.php:168
+#: admin/partials/wcbm-product-sliders-form.php:489
+#: admin/partials/wcbm-product-sliders-form.php:495
+msgid "Exclude Product(s) 🔒"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:177
+#: admin/partials/wcbm-product-sliders-form.php:504
+msgid "Choose Featured Product(s)"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:180
+#: admin/partials/wcbm-product-sliders-form.php:507
+msgid "Choose the featured specific product(s) to show."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:187
+#: admin/partials/wcbm-product-sliders-form.php:514
+msgid "Select a featured product"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:266
+#: admin/partials/wcbm-product-sliders-form.php:311
+#: admin/partials/wcbm-product-sliders-form.php:581
+#: admin/partials/wcbm-product-sliders-form.php:618
+msgid "Choose Product(s)"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:269
+#: admin/partials/wcbm-product-sliders-form.php:584
+msgid "Choose the specific product(s) to exclude."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:274
+#: admin/partials/wcbm-product-sliders-form.php:589
+msgid "Select a Product to Exclude"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:314
+#: admin/partials/wcbm-product-sliders-form.php:621
+msgid "Choose the specific product(s) to show."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:319
+#: admin/partials/wcbm-product-sliders-form.php:626
+msgid "Select a Product"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:352
+#: admin/partials/wcbm-product-sliders-form.php:652
+msgid "Total Products to Show"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:355
+#: admin/partials/wcbm-product-sliders-form.php:655
+msgid "Total number of products to display."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:365
+#: admin/partials/wcbm-product-sliders-form.php:665
+msgid "Product Column(s)"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:422
+#: admin/partials/wcbm-product-sliders-form.php:722
+msgid "Modified"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:770
+#: admin/partials/wcbm-product-sliders-form.php:860
+msgid "Show/Hide product slider's rule/section title."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:786
+#: admin/partials/wcbm-product-sliders-form.php:876
+msgid "Set color for product slider's rule/section title."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:799
+#: admin/partials/wcbm-product-sliders-form.php:889
+msgid "Set margin for product slider's rule/section title."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:840
+#: admin/partials/wcbm-product-sliders-form.php:930
+msgid "Space Between Products (px)"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:1827
+#: admin/partials/wcbm-product-sliders-form.php:1901
+#: admin/partials/wcbm-product-sliders-form.php:1996
+#: admin/partials/wcbm-product-sliders-form.php:2070
+msgid "Set a image mode effect for thumbnail."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2186
+#: admin/partials/wcbm-product-sliders-form.php:2495
+#: admin/partials/wcbm-product-sliders-form.php:2812
+msgid "Load Product Title Font"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2189
+#: admin/partials/wcbm-product-sliders-form.php:2498
+#: admin/partials/wcbm-product-sliders-form.php:2815
+msgid "Enable/Disable Product Title Font."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2205
+#: admin/partials/wcbm-product-sliders-form.php:2514
+#: admin/partials/wcbm-product-sliders-form.php:2828
+msgid "Product Title Font"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2208
+#: admin/partials/wcbm-product-sliders-form.php:2517
+#: admin/partials/wcbm-product-sliders-form.php:2831
+msgid "Set Product Title Fonts"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2288
+#: admin/partials/wcbm-product-sliders-form.php:2597
+#: admin/partials/wcbm-product-sliders-form.php:2883
+msgid "Load Product Price Font"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2291
+#: admin/partials/wcbm-product-sliders-form.php:2600
+#: admin/partials/wcbm-product-sliders-form.php:2886
+msgid "Enable/Disable Product Price Font."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2307
+#: admin/partials/wcbm-product-sliders-form.php:2616
+#: admin/partials/wcbm-product-sliders-form.php:2899
+msgid "Product Price Font"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2310
+#: admin/partials/wcbm-product-sliders-form.php:2619
+#: admin/partials/wcbm-product-sliders-form.php:2902
+msgid "Set Product Price Fonts"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2390
+#: admin/partials/wcbm-product-sliders-form.php:2699
+#: admin/partials/wcbm-product-sliders-form.php:2954
+msgid "Load Add To Cart Font"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2393
+#: admin/partials/wcbm-product-sliders-form.php:2702
+#: admin/partials/wcbm-product-sliders-form.php:2957
+msgid "Enable/Disable Add To Cart Font."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2409
+#: admin/partials/wcbm-product-sliders-form.php:2718
+#: admin/partials/wcbm-product-sliders-form.php:2970
+msgid "Add To Cart Font"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-form.php:2412
+#: admin/partials/wcbm-product-sliders-form.php:2721
+#: admin/partials/wcbm-product-sliders-form.php:2973
+msgid "Set Add To Cart Fonts"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-page.php:30
+msgid "Product Sliders"
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-page.php:477
+msgid "Error saving product slider."
+msgstr ""
+
+#: admin/partials/wcbm-product-sliders-page.php:562
+msgid "All Product Sliders"
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:659
+msgid "Show product Name in the Banner"
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:662
+msgid ""
+"If selected then it will show the default product title on banner with "
+"center position."
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:667
+msgid "Show Page Name in the Banner"
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:670
+msgid ""
+"If selected then it will show the default page title on banner with center "
+"position."
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:690
+msgid "Select Product title color"
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:692
+msgid "Select Page title color"
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:709
+msgid "Select Product title size."
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:711
+msgid "Select Page title size."
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:902
+msgid "Product Banner Settings"
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:940
+msgid "Page Banner Settings"
+msgstr ""
+
+#: includes/class-woocommerce-category-banner-management.php:1042
+msgid "Docs"
+msgstr ""
+
+#: public/woocommerce/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: public/woocommerce/checkout/thankyou.php:34
+msgid "Pay"
+msgstr ""
+
+#: public/woocommerce/checkout/thankyou.php:37
+msgid "My account"
+msgstr ""
+
+#: public/woocommerce/checkout/thankyou.php:290
+#: public/woocommerce/checkout/thankyou.php:324
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: public/woocommerce/checkout/thankyou.php:295
+msgid "Order number:"
+msgstr ""
+
+#: public/woocommerce/checkout/thankyou.php:300
+msgid "Date:"
+msgstr ""
+
+#: public/woocommerce/checkout/thankyou.php:305
+msgid "Total:"
+msgstr ""
+
+#: public/woocommerce/checkout/thankyou.php:312
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce-category-banner-management.php:247
+msgid "Banner Management For WooCommerce"
+msgstr ""
+
+#: woocommerce-category-banner-management.php:248
+msgid "WooCommerce"
+msgstr ""
+
+#: woocommerce-category-banner-management.php:253
+msgid "%1$s requires %2$s to be installed & activated!"
+msgstr ""
+
+#: woocommerce-category-banner-management.php:351
+msgid "Activate Plugin"
+msgstr ""

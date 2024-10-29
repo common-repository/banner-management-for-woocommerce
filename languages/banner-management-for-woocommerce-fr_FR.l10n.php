@@ -1,0 +1,3 @@
+<?php
+return ['project-id-version'=>'Category Banner Management for Woocommerce','report-msgid-bugs-to'=>'https://www.multidots.com/contact/','pot-creation-date'=>'2022-06-15 09:50:48+00:00','po-revision-date'=>'2024-07-30 11:33+0000','last-translator'=>'','language-team'=>'French (France)','language'=>'fr_FR','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','plural-forms'=>'nplurals=2; plural=n > 1;','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.5.5; wp-5.8.2','x-domain'=>'woo-shipping-display-mode','x-poedit-keywordslist'=>'esc_html_e;esc_html;esc_attr_e;esc_attr;__;_e;esc_html__','x-poedit-basepath'=>'..','x-poedit-searchpath-0'=>'.
+','messages'=>[]];
